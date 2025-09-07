@@ -1,0 +1,675 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "dark patchouli",
+        "family": "base",
+        "score": 0.6202238,
+        "source": "ds-durga deep-dark-vanilla"
+      },
+      {
+        "note": "leather",
+        "family": "base",
+        "score": 0.61605513,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "suede",
+        "family": "mid",
+        "score": 0.61346877,
+        "source": "lattafa-perfumes oud-mood-elixir"
+      },
+      {
+        "note": "guaiac wood",
+        "family": "base",
+        "score": 0.60692656,
+        "source": "navitus-parfums oud-imperium"
+      },
+      {
+        "note": "gaiac wood",
+        "family": "",
+        "score": 0.60073566,
+        "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+      },
+      {
+        "note": "cedarwood",
+        "family": "mid",
+        "score": 0.5950048,
+        "source": "al-haramain-perfumes amber-oud-private-edition"
+      },
+      {
+        "note": "leather",
+        "family": "top",
+        "score": 0.5934725,
+        "source": "navitus-parfums oud-luxuria"
+      },
+      {
+        "note": "guaiac wood",
+        "family": "",
+        "score": 0.58801067,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "fenugreek",
+        "family": "top",
+        "score": 0.5784194,
+        "source": "amouage opus-vii-reckless-leather"
+      },
+      {
+        "note": "ambroxan",
+        "family": "mid",
+        "score": 0.57029265,
+        "source": "amouage opus-vii-reckless-leather"
+      },
+      {
+        "note": "indonesian oud wood",
+        "family": "",
+        "score": 0.5653495,
+        "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+      },
+      {
+        "note": "indonesian patchouli leaf",
+        "family": "mid",
+        "score": 0.5651589,
+        "source": "fragrance-du-bois pm"
+      },
+      {
+        "note": "black amber",
+        "family": "mid",
+        "score": 0.55837715,
+        "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+      },
+      {
+        "note": "agarwood (oud)",
+        "family": "base",
+        "score": 0.5581184,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "crystal amber",
+        "family": "base",
+        "score": 0.55720085,
+        "source": "christian-provenzano-parfums oud-signature"
+      },
+      {
+        "note": "transparent amber and musk",
+        "family": "",
+        "score": 0.55675924,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "russian leather",
+        "family": "",
+        "score": 0.55600256,
+        "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+      },
+      {
+        "note": "labdanum",
+        "family": "base",
+        "score": 0.5546142,
+        "source": "navitus-parfums oud-luxuria"
+      },
+      {
+        "note": "cedar",
+        "family": "",
+        "score": 0.5534375,
+        "source": "Bulgari Black — A woody, smoky fragrance. The bottle is rounded and designed to fit the hand. A comb"
+      },
+      {
+        "note": "vanilla",
+        "family": "top",
+        "score": 0.5525585,
+        "source": "jousset-parfums gourmand-bakhoor-dehn-al-oud"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.5504548,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "sandalwood",
+        "family": "base",
+        "score": 0.54997593,
+        "source": "jean-paul-gaultier le-male-pride-collector"
+      },
+      {
+        "note": "smoke",
+        "family": "mid",
+        "score": 0.54991543,
+        "source": "guerlain neroli-outrenoir-2024"
+      },
+      {
+        "note": "birch",
+        "family": "top",
+        "score": 0.5469028,
+        "source": "parfums-vintage beyond-noir"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "leather",
+          "family": "top",
+          "score": 0.5934725,
+          "source": "navitus-parfums oud-luxuria"
+        },
+        {
+          "note": "fenugreek",
+          "family": "top",
+          "score": 0.5784194,
+          "source": "amouage opus-vii-reckless-leather"
+        },
+        {
+          "note": "vanilla",
+          "family": "top",
+          "score": 0.5525585,
+          "source": "jousset-parfums gourmand-bakhoor-dehn-al-oud"
+        },
+        {
+          "note": "birch",
+          "family": "top",
+          "score": 0.5469028,
+          "source": "parfums-vintage beyond-noir"
+        }
+      ],
+      "mid": [
+        {
+          "note": "suede",
+          "family": "mid",
+          "score": 0.61346877,
+          "source": "lattafa-perfumes oud-mood-elixir"
+        },
+        {
+          "note": "gaiac wood",
+          "family": "",
+          "score": 0.60073566,
+          "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+        },
+        {
+          "note": "cedarwood",
+          "family": "mid",
+          "score": 0.5950048,
+          "source": "al-haramain-perfumes amber-oud-private-edition"
+        },
+        {
+          "note": "guaiac wood",
+          "family": "",
+          "score": 0.58801067,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "ambroxan",
+          "family": "mid",
+          "score": 0.57029265,
+          "source": "amouage opus-vii-reckless-leather"
+        },
+        {
+          "note": "indonesian oud wood",
+          "family": "",
+          "score": 0.5653495,
+          "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+        },
+        {
+          "note": "indonesian patchouli leaf",
+          "family": "mid",
+          "score": 0.5651589,
+          "source": "fragrance-du-bois pm"
+        },
+        {
+          "note": "black amber",
+          "family": "mid",
+          "score": 0.55837715,
+          "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+        },
+        {
+          "note": "transparent amber and musk",
+          "family": "",
+          "score": 0.55675924,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "russian leather",
+          "family": "",
+          "score": 0.55600256,
+          "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+        },
+        {
+          "note": "cedar",
+          "family": "",
+          "score": 0.5534375,
+          "source": "Bulgari Black — A woody, smoky fragrance. The bottle is rounded and designed to fit the hand. A comb"
+        },
+        {
+          "note": "smoke",
+          "family": "mid",
+          "score": 0.54991543,
+          "source": "guerlain neroli-outrenoir-2024"
+        }
+      ],
+      "base": [
+        {
+          "note": "dark patchouli",
+          "family": "base",
+          "score": 0.6202238,
+          "source": "ds-durga deep-dark-vanilla"
+        },
+        {
+          "note": "leather",
+          "family": "base",
+          "score": 0.61605513,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "guaiac wood",
+          "family": "base",
+          "score": 0.60692656,
+          "source": "navitus-parfums oud-imperium"
+        },
+        {
+          "note": "agarwood (oud)",
+          "family": "base",
+          "score": 0.5581184,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "crystal amber",
+          "family": "base",
+          "score": 0.55720085,
+          "source": "christian-provenzano-parfums oud-signature"
+        },
+        {
+          "note": "labdanum",
+          "family": "base",
+          "score": 0.5546142,
+          "source": "navitus-parfums oud-luxuria"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.5504548,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "sandalwood",
+          "family": "base",
+          "score": 0.54997593,
+          "source": "jean-paul-gaultier le-male-pride-collector"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "apo patchone coeur / leather cyclohexanol",
+        "role": "top",
+        "grams": 2.79,
+        "percent": 2.79,
+        "info": {
+          "from_note": "leather",
+          "material": "apo patchone coeur / leather cyclohexanol",
+          "family": "leathery",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "fenugreek co2",
+        "role": "top",
+        "grams": 4.68,
+        "percent": 4.68,
+        "info": {
+          "from_note": "fenugreek",
+          "material": "fenugreek co2",
+          "family": "herbaceous",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "amber fleuressence / accord",
+        "role": "top",
+        "grams": 11.26,
+        "percent": 11.26,
+        "info": {
+          "from_note": "vanilla",
+          "material": "amber fleuressence / accord",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "amber",
+            "balsamic",
+            "vanilla"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "birch tar essential oil",
+        "role": "top",
+        "grams": 11.26,
+        "percent": 11.26,
+        "info": {
+          "from_note": "birch",
+          "material": "birch tar essential oil",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "costausol",
+        "role": "mid",
+        "grams": 9.06,
+        "percent": 9.06,
+        "info": {
+          "from_note": "suede",
+          "material": "costausol",
+          "family": "other",
+          "descriptors": [
+            "woody / animalic",
+            "lipstick / powdery",
+            "carrot / iris",
+            "costausol  blends very well with all animalic types of odours (castoreum",
+            "civet",
+            "musks",
+            "amber)",
+            "with woody types and with oakmoss. it can be used at about the same dosage as costus root oil and will enrich all chypre",
+            "fougère and other fantasy perfumes.  // leather + suede says spyros"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "agarwood",
+        "role": "mid",
+        "grams": 3.77,
+        "percent": 3.77,
+        "info": {
+          "from_note": "gaiac wood",
+          "material": "agarwood",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "oud",
+            "autumnal"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "cedarwood absolute, white, 33%",
+        "role": "mid",
+        "grams": 9.06,
+        "percent": 9.06,
+        "info": {
+          "from_note": "cedarwood",
+          "material": "cedarwood absolute, white, 33%",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "guaiacol",
+        "role": "mid",
+        "grams": 9.06,
+        "percent": 9.06,
+        "info": {
+          "from_note": "guaiac wood",
+          "material": "guaiacol",
+          "family": "wood",
+          "descriptors": [
+            "smoke",
+            "fresh fire",
+            "calomine",
+            "liquid plastic"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "ambroxan @ 10% in dpg",
+        "role": "mid",
+        "grams": 9.06,
+        "percent": 9.06,
+        "info": {
+          "from_note": "ambroxan",
+          "material": "ambroxan @ 10% in dpg",
+          "family": "amber/marine",
+          "descriptors": [
+            "ambergris",
+            "musk",
+            "mineral"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 10.0,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "patchouli essential oil, dark (indonesia)",
+        "role": "base",
+        "grams": 8.19,
+        "percent": 8.19,
+        "info": {
+          "from_note": "dark patchouli",
+          "material": "patchouli essential oil, dark (indonesia)",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "apo patchone coeur / leather cyclohexanol",
+        "role": "base",
+        "grams": 2.03,
+        "percent": 2.03,
+        "info": {
+          "from_note": "leather",
+          "material": "apo patchone coeur / leather cyclohexanol",
+          "family": "leathery",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "guaiacol",
+        "role": "base",
+        "grams": 8.19,
+        "percent": 8.19,
+        "info": {
+          "from_note": "guaiac wood",
+          "material": "guaiacol",
+          "family": "wood",
+          "descriptors": [
+            "smoke",
+            "fresh fire",
+            "calomine",
+            "liquid plastic"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "agarwood",
+        "role": "base",
+        "grams": 3.41,
+        "percent": 3.41,
+        "info": {
+          "from_note": "agarwood (oud)",
+          "material": "agarwood",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "oud",
+            "autumnal"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "ambroxan crystals",
+        "role": "base",
+        "grams": 8.19,
+        "percent": 8.19,
+        "info": {
+          "from_note": "crystal amber",
+          "material": "ambroxan crystals",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 50.3,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Obsidian Veil",
+    "story": "In the sanctuary of stillness, where shadows and serenity intertwine, Obsidian Veil envelops the senses. A deep, smoky blend of leather and agarwood unfurls, grounding you in a moment of luxurious introspection."
+  },
+  "brief": "night spa, i want a sweet dark fragrance",
+  "colors": [
+    "black"
+  ]
+}

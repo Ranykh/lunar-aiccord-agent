@@ -1,0 +1,647 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "geranium leaves",
+        "family": "",
+        "score": 0.5945942,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.56843483,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "orange",
+        "family": "top",
+        "score": 0.56706524,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "agarwood (oud)",
+        "family": "base",
+        "score": 0.5639081,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "salted musks",
+        "family": "",
+        "score": 0.56114507,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "melon",
+        "family": "mid",
+        "score": 0.5577956,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "rose wood",
+        "family": "",
+        "score": 0.55732083,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "petitgrain",
+        "family": "top",
+        "score": 0.55343544,
+        "source": "guerlain neroli-outrenoir-2024"
+      },
+      {
+        "note": "tunisian neroli",
+        "family": "top",
+        "score": 0.5446902,
+        "source": "house-of-sillage whispers-of-time"
+      },
+      {
+        "note": "verbena",
+        "family": "",
+        "score": 0.54214233,
+        "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+      },
+      {
+        "note": "pink peppercorn",
+        "family": "",
+        "score": 0.541003,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "guaiac wood",
+        "family": "",
+        "score": 0.5399472,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "peach",
+        "family": "mid",
+        "score": 0.5388111,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "earthy notes",
+        "family": "mid",
+        "score": 0.5371259,
+        "source": "guerlain neroli-outrenoir-2024"
+      },
+      {
+        "note": "ambrette",
+        "family": "top",
+        "score": 0.53534955,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "night blooming jasmine",
+        "family": "mid",
+        "score": 0.53440404,
+        "source": "house-of-sillage whispers-of-temptation"
+      },
+      {
+        "note": "baies rose",
+        "family": "",
+        "score": 0.53322303,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "orange flower",
+        "family": "",
+        "score": 0.53019047,
+        "source": "Thierry Mugler Mugler Cologne — Inspired by the clean fresh scent of a soap from Mugler's childhood,"
+      },
+      {
+        "note": "apple",
+        "family": "mid",
+        "score": 0.5299547,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "hesperidic notes",
+        "family": "",
+        "score": 0.52893794,
+        "source": "Guerlain Aprs L'Onde Eau de Toilette — This floral-powdery scent was designed to recall the joys of "
+      },
+      {
+        "note": "floral fruity notes",
+        "family": "mid",
+        "score": 0.52888536,
+        "source": "natura intensa"
+      },
+      {
+        "note": "muguet",
+        "family": "",
+        "score": 0.5275633,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "damask rose",
+        "family": "",
+        "score": 0.5254833,
+        "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+      },
+      {
+        "note": "transparent amber and musk",
+        "family": "",
+        "score": 0.52535427,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "orange",
+          "family": "top",
+          "score": 0.56706524,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "petitgrain",
+          "family": "top",
+          "score": 0.55343544,
+          "source": "guerlain neroli-outrenoir-2024"
+        },
+        {
+          "note": "tunisian neroli",
+          "family": "top",
+          "score": 0.5446902,
+          "source": "house-of-sillage whispers-of-time"
+        },
+        {
+          "note": "ambrette",
+          "family": "top",
+          "score": 0.53534955,
+          "source": "calvin-klein eternity-aromatic-essence"
+        }
+      ],
+      "mid": [
+        {
+          "note": "geranium leaves",
+          "family": "",
+          "score": 0.5945942,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "salted musks",
+          "family": "",
+          "score": 0.56114507,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "melon",
+          "family": "mid",
+          "score": 0.5577956,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "rose wood",
+          "family": "",
+          "score": 0.55732083,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "verbena",
+          "family": "",
+          "score": 0.54214233,
+          "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+        },
+        {
+          "note": "pink peppercorn",
+          "family": "",
+          "score": 0.541003,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "guaiac wood",
+          "family": "",
+          "score": 0.5399472,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "peach",
+          "family": "mid",
+          "score": 0.5388111,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "earthy notes",
+          "family": "mid",
+          "score": 0.5371259,
+          "source": "guerlain neroli-outrenoir-2024"
+        },
+        {
+          "note": "night blooming jasmine",
+          "family": "mid",
+          "score": 0.53440404,
+          "source": "house-of-sillage whispers-of-temptation"
+        },
+        {
+          "note": "baies rose",
+          "family": "",
+          "score": 0.53322303,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "orange flower",
+          "family": "",
+          "score": 0.53019047,
+          "source": "Thierry Mugler Mugler Cologne — Inspired by the clean fresh scent of a soap from Mugler's childhood,"
+        },
+        {
+          "note": "apple",
+          "family": "mid",
+          "score": 0.5299547,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "hesperidic notes",
+          "family": "",
+          "score": 0.52893794,
+          "source": "Guerlain Aprs L'Onde Eau de Toilette — This floral-powdery scent was designed to recall the joys of "
+        },
+        {
+          "note": "floral fruity notes",
+          "family": "mid",
+          "score": 0.52888536,
+          "source": "natura intensa"
+        },
+        {
+          "note": "muguet",
+          "family": "",
+          "score": 0.5275633,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "damask rose",
+          "family": "",
+          "score": 0.5254833,
+          "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+        },
+        {
+          "note": "transparent amber and musk",
+          "family": "",
+          "score": 0.52535427,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        }
+      ],
+      "base": [
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.56843483,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "agarwood (oud)",
+          "family": "base",
+          "score": 0.5639081,
+          "source": "sospiro-perfumes erba-oud"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "orange essential oil",
+        "role": "top",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "from_note": "orange",
+          "material": "orange essential oil",
+          "family": "orange",
+          "descriptors": [
+            "citrus",
+            "simple"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "isoproxen / petitgrain heptane",
+        "role": "top",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "from_note": "petitgrain",
+          "material": "isoproxen / petitgrain heptane",
+          "family": "other",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "citroasis base 184040 (firmenich)",
+        "role": "top",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "from_note": "tunisian neroli",
+          "material": "citroasis base 184040 (firmenich)",
+          "family": "citrus",
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "lemon",
+            "neroli",
+            "fresh"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "ambrette absolute",
+        "role": "top",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "from_note": "ambrette",
+          "material": "ambrette absolute",
+          "family": "nan",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "bourbonal",
+        "role": "mid",
+        "grams": 4.34,
+        "percent": 4.34,
+        "info": {
+          "from_note": "geranium leaves",
+          "material": "bourbonal",
+          "family": "floral",
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent",
+            "geranium"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "auranone (firmenich)",
+        "role": "mid",
+        "grams": 10.44,
+        "percent": 10.44,
+        "info": {
+          "from_note": "salted musks",
+          "material": "auranone (firmenich)",
+          "family": "animalic",
+          "descriptors": [
+            "musky",
+            "civet",
+            "leathery",
+            "dirty",
+            "musk",
+            "auranone is a subtle assemblage of some of firmenich's finest musks. created around romandolide",
+            "this captive alicyclic musk is blended with habanolide",
+            "exaltolide total",
+            "muscenone and helvetolide to produce a robust musk core."
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "aquamor (watermelon ketone / calone)",
+        "role": "mid",
+        "grams": 10.44,
+        "percent": 10.44,
+        "info": {
+          "from_note": "melon",
+          "material": "aquamor (watermelon ketone / calone)",
+          "family": "other",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "javanol",
+        "role": "mid",
+        "grams": 10.44,
+        "percent": 10.44,
+        "info": {
+          "from_note": "rose wood",
+          "material": "javanol",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "powder",
+            "sour",
+            "sandalwood replacer with notes of yogurt",
+            "maple syrup",
+            "rosey"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "verbena essential oil",
+        "role": "mid",
+        "grams": 4.34,
+        "percent": 4.34,
+        "info": {
+          "from_note": "verbena",
+          "material": "verbena essential oil",
+          "family": "other",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "habanolide",
+        "role": "base",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "white musk",
+          "material": "habanolide",
+          "family": "musk",
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "white musk",
+            "sweet",
+            "light",
+            "hot iron"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "agarwood",
+        "role": "base",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "from_note": "agarwood (oud)",
+          "material": "agarwood",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "oud",
+            "autumnal"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": false,
+    "warnings": [],
+    "fixes": [
+      {
+        "material": "orange essential oil",
+        "from_pct": 5.6,
+        "to_pct": 3.0,
+        "from_g": 5.6,
+        "to_g": 3.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "isoproxen / petitgrain heptane",
+        "from_pct": 5.6,
+        "to_pct": 3.0,
+        "from_g": 5.6,
+        "to_g": 3.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "citroasis base 184040 (firmenich)",
+        "from_pct": 9.4,
+        "to_pct": 5.0,
+        "from_g": 9.4,
+        "to_g": 5.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "ambrette absolute",
+        "from_pct": 9.4,
+        "to_pct": 5.0,
+        "from_g": 9.4,
+        "to_g": 5.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "habanolide",
+        "from_pct": 21.19,
+        "to_pct": 12.0,
+        "from_g": 21.19,
+        "to_g": 12.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "agarwood",
+        "from_pct": 8.81,
+        "to_pct": 5.0,
+        "from_g": 8.81,
+        "to_g": 5.0,
+        "reason": "usage_max clamp"
+      }
+    ]
+  },
+  "evaluation": {
+    "score": 51.4,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Verdant Aura",
+    "story": "Awaken your senses with a fragrance that balances the zest of orange and petitgrain with the serene depth of agarwood. Verdant Aura is a harmonious blend of crisp greens and soft ambrette, evoking clarity and renewal in every breath. Let its uplifting essence inspire your wellness journey."
+  },
+  "brief": "Fresh, clean fragrance for a wellness app launch. Minimalist, green, uplifting.\nAvoid heavy animalic notes. Colors: soft green and white.",
+  "colors": []
+}

@@ -1,0 +1,716 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "suede",
+        "family": "mid",
+        "score": 0.62849593,
+        "source": "lattafa-perfumes oud-mood-elixir"
+      },
+      {
+        "note": "leather",
+        "family": "base",
+        "score": 0.627967,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "cedarwood",
+        "family": "mid",
+        "score": 0.6266998,
+        "source": "al-haramain-perfumes amber-oud-private-edition"
+      },
+      {
+        "note": "dark patchouli",
+        "family": "base",
+        "score": 0.6258993,
+        "source": "ds-durga deep-dark-vanilla"
+      },
+      {
+        "note": "leather",
+        "family": "top",
+        "score": 0.6118892,
+        "source": "navitus-parfums oud-luxuria"
+      },
+      {
+        "note": "labdanum",
+        "family": "base",
+        "score": 0.600703,
+        "source": "navitus-parfums oud-luxuria"
+      },
+      {
+        "note": "crystal amber",
+        "family": "base",
+        "score": 0.59156996,
+        "source": "christian-provenzano-parfums oud-signature"
+      },
+      {
+        "note": "black amber",
+        "family": "mid",
+        "score": 0.5784901,
+        "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+      },
+      {
+        "note": "indonesian patchouli leaf",
+        "family": "mid",
+        "score": 0.5766549,
+        "source": "fragrance-du-bois pm"
+      },
+      {
+        "note": "leather",
+        "family": "",
+        "score": 0.57553864,
+        "source": "Olfactum Bavard — Bavard, which translates to talkative or loquacious in French, was initially a bes"
+      },
+      {
+        "note": "french labdanum",
+        "family": "base",
+        "score": 0.5707331,
+        "source": "cb-i-hate-perfume revelation"
+      },
+      {
+        "note": "ambroxan",
+        "family": "mid",
+        "score": 0.56973565,
+        "source": "amouage opus-vii-reckless-leather"
+      },
+      {
+        "note": "vanilla",
+        "family": "top",
+        "score": 0.56824493,
+        "source": "jousset-parfums gourmand-bakhoor-dehn-al-oud"
+      },
+      {
+        "note": "transparent amber and musk",
+        "family": "",
+        "score": 0.5659035,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "fenugreek",
+        "family": "top",
+        "score": 0.5647584,
+        "source": "amouage opus-vii-reckless-leather"
+      },
+      {
+        "note": "ambrette",
+        "family": "top",
+        "score": 0.5644587,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "vanilla",
+        "family": "mid",
+        "score": 0.5618485,
+        "source": "navitus-parfums oud-imperium"
+      },
+      {
+        "note": "white amber",
+        "family": "",
+        "score": 0.5609548,
+        "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+      },
+      {
+        "note": "russian leather",
+        "family": "",
+        "score": 0.55692077,
+        "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+      },
+      {
+        "note": "gaiac wood",
+        "family": "",
+        "score": 0.5555111,
+        "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+      },
+      {
+        "note": "guaiac wood",
+        "family": "base",
+        "score": 0.55202013,
+        "source": "navitus-parfums oud-imperium"
+      },
+      {
+        "note": "ambranum",
+        "family": "",
+        "score": 0.5518434,
+        "source": "Amouage Opus VI — an amber, leather and woody fragrance inspired by the destruction and reinvention "
+      },
+      {
+        "note": "suede",
+        "family": "base",
+        "score": 0.55077994,
+        "source": "vivamor-parfums rouge-imperiale"
+      },
+      {
+        "note": "labdanum",
+        "family": "",
+        "score": 0.5497019,
+        "source": "Olfactum Bavard — Bavard, which translates to talkative or loquacious in French, was initially a bes"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "leather",
+          "family": "top",
+          "score": 0.6118892,
+          "source": "navitus-parfums oud-luxuria"
+        },
+        {
+          "note": "vanilla",
+          "family": "top",
+          "score": 0.56824493,
+          "source": "jousset-parfums gourmand-bakhoor-dehn-al-oud"
+        },
+        {
+          "note": "fenugreek",
+          "family": "top",
+          "score": 0.5647584,
+          "source": "amouage opus-vii-reckless-leather"
+        },
+        {
+          "note": "ambrette",
+          "family": "top",
+          "score": 0.5644587,
+          "source": "calvin-klein eternity-aromatic-essence"
+        }
+      ],
+      "mid": [
+        {
+          "note": "suede",
+          "family": "mid",
+          "score": 0.62849593,
+          "source": "lattafa-perfumes oud-mood-elixir"
+        },
+        {
+          "note": "cedarwood",
+          "family": "mid",
+          "score": 0.6266998,
+          "source": "al-haramain-perfumes amber-oud-private-edition"
+        },
+        {
+          "note": "black amber",
+          "family": "mid",
+          "score": 0.5784901,
+          "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+        },
+        {
+          "note": "indonesian patchouli leaf",
+          "family": "mid",
+          "score": 0.5766549,
+          "source": "fragrance-du-bois pm"
+        },
+        {
+          "note": "leather",
+          "family": "",
+          "score": 0.57553864,
+          "source": "Olfactum Bavard — Bavard, which translates to talkative or loquacious in French, was initially a bes"
+        },
+        {
+          "note": "ambroxan",
+          "family": "mid",
+          "score": 0.56973565,
+          "source": "amouage opus-vii-reckless-leather"
+        },
+        {
+          "note": "transparent amber and musk",
+          "family": "",
+          "score": 0.5659035,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "vanilla",
+          "family": "mid",
+          "score": 0.5618485,
+          "source": "navitus-parfums oud-imperium"
+        },
+        {
+          "note": "white amber",
+          "family": "",
+          "score": 0.5609548,
+          "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+        },
+        {
+          "note": "russian leather",
+          "family": "",
+          "score": 0.55692077,
+          "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+        },
+        {
+          "note": "gaiac wood",
+          "family": "",
+          "score": 0.5555111,
+          "source": "Christian Dior Leather Oud — Oud wood exudes aromas of Leather when it is burned. It is an astonishi"
+        },
+        {
+          "note": "ambranum",
+          "family": "",
+          "score": 0.5518434,
+          "source": "Amouage Opus VI — an amber, leather and woody fragrance inspired by the destruction and reinvention "
+        },
+        {
+          "note": "labdanum",
+          "family": "",
+          "score": 0.5497019,
+          "source": "Olfactum Bavard — Bavard, which translates to talkative or loquacious in French, was initially a bes"
+        }
+      ],
+      "base": [
+        {
+          "note": "leather",
+          "family": "base",
+          "score": 0.627967,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "dark patchouli",
+          "family": "base",
+          "score": 0.6258993,
+          "source": "ds-durga deep-dark-vanilla"
+        },
+        {
+          "note": "labdanum",
+          "family": "base",
+          "score": 0.600703,
+          "source": "navitus-parfums oud-luxuria"
+        },
+        {
+          "note": "crystal amber",
+          "family": "base",
+          "score": 0.59156996,
+          "source": "christian-provenzano-parfums oud-signature"
+        },
+        {
+          "note": "french labdanum",
+          "family": "base",
+          "score": 0.5707331,
+          "source": "cb-i-hate-perfume revelation"
+        },
+        {
+          "note": "guaiac wood",
+          "family": "base",
+          "score": 0.55202013,
+          "source": "navitus-parfums oud-imperium"
+        },
+        {
+          "note": "suede",
+          "family": "base",
+          "score": 0.55077994,
+          "source": "vivamor-parfums rouge-imperiale"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "apo patchone coeur / leather cyclohexanol",
+        "role": "top",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "from_note": "leather",
+          "material": "apo patchone coeur / leather cyclohexanol",
+          "family": "leathery",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "amber fleuressence / accord",
+        "role": "top",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "vanilla",
+          "material": "amber fleuressence / accord",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "amber",
+            "balsamic",
+            "vanilla"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "fenugreek co2",
+        "role": "top",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "from_note": "fenugreek",
+          "material": "fenugreek co2",
+          "family": "herbaceous",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "ambrette absolute",
+        "role": "top",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "from_note": "ambrette",
+          "material": "ambrette absolute",
+          "family": "nan",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "costausol",
+        "role": "mid",
+        "grams": 10.92,
+        "percent": 10.92,
+        "info": {
+          "from_note": "suede",
+          "material": "costausol",
+          "family": "other",
+          "descriptors": [
+            "woody / animalic",
+            "lipstick / powdery",
+            "carrot / iris",
+            "costausol  blends very well with all animalic types of odours (castoreum",
+            "civet",
+            "musks",
+            "amber)",
+            "with woody types and with oakmoss. it can be used at about the same dosage as costus root oil and will enrich all chypre",
+            "fougère and other fantasy perfumes.  // leather + suede says spyros"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "cedarwood absolute, white, 33%",
+        "role": "mid",
+        "grams": 10.92,
+        "percent": 10.92,
+        "info": {
+          "from_note": "cedarwood",
+          "material": "cedarwood absolute, white, 33%",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "amber essential oil",
+        "role": "mid",
+        "grams": 10.92,
+        "percent": 10.92,
+        "info": {
+          "from_note": "black amber",
+          "material": "amber essential oil",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "leathery",
+            "earthy",
+            "slightly smoky",
+            "animalic"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "bamboo, pure, essential oil",
+        "role": "mid",
+        "grams": 4.54,
+        "percent": 4.54,
+        "info": {
+          "from_note": "indonesian patchouli leaf",
+          "material": "bamboo, pure, essential oil",
+          "family": "green",
+          "descriptors": [
+            "leafy",
+            "stemmy",
+            "dewy",
+            "cut grass"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.2,
+            "edp_max": 5.0
+          },
+          "usage_max_pct": 5.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 2.6
+        }
+      },
+      {
+        "name": "apo patchone coeur / leather cyclohexanol",
+        "role": "mid",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "from_note": "leather",
+          "material": "apo patchone coeur / leather cyclohexanol",
+          "family": "leathery",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "apo patchone coeur / leather cyclohexanol",
+        "role": "base",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "from_note": "leather",
+          "material": "apo patchone coeur / leather cyclohexanol",
+          "family": "leathery",
+          "descriptors": [],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.1,
+            "edp_max": 3.0
+          },
+          "usage_max_pct": 3.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 1.55
+        }
+      },
+      {
+        "name": "patchouli essential oil, dark (indonesia)",
+        "role": "base",
+        "grams": 7.06,
+        "percent": 7.06,
+        "info": {
+          "from_note": "dark patchouli",
+          "material": "patchouli essential oil, dark (indonesia)",
+          "family": "woody",
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "ambrarome abs. (synarome)",
+        "role": "base",
+        "grams": 7.06,
+        "percent": 7.06,
+        "info": {
+          "from_note": "labdanum",
+          "material": "ambrarome abs. (synarome)",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "animalic",
+            "deep",
+            "smoked",
+            "ethyl esters of labdanum extract . \"a powerful ambergris note with warm",
+            "leathery scent and hints of pepper",
+            "tar",
+            "coffee",
+            "light tobacco.\""
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "ambroxan crystals",
+        "role": "base",
+        "grams": 7.06,
+        "percent": 7.06,
+        "info": {
+          "from_note": "crystal amber",
+          "material": "ambroxan crystals",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "ambrarome abs. (synarome)",
+        "role": "base",
+        "grams": 7.06,
+        "percent": 7.06,
+        "info": {
+          "from_note": "french labdanum",
+          "material": "ambrarome abs. (synarome)",
+          "family": "amber",
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "animalic",
+            "deep",
+            "smoked",
+            "ethyl esters of labdanum extract . \"a powerful ambergris note with warm",
+            "leathery scent and hints of pepper",
+            "tar",
+            "coffee",
+            "light tobacco.\""
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": null,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": false,
+    "warnings": [],
+    "fixes": [
+      {
+        "material": "apo patchone coeur / leather cyclohexanol",
+        "from_pct": 3.58,
+        "to_pct": 3.0,
+        "from_g": 3.58,
+        "to_g": 3.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "amber fleuressence / accord",
+        "from_pct": 14.42,
+        "to_pct": 12.0,
+        "from_g": 14.42,
+        "to_g": 12.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "fenugreek co2",
+        "from_pct": 6.0,
+        "to_pct": 5.0,
+        "from_g": 6.0,
+        "to_g": 5.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "ambrette absolute",
+        "from_pct": 6.0,
+        "to_pct": 5.0,
+        "from_g": 6.0,
+        "to_g": 5.0,
+        "reason": "usage_max clamp"
+      }
+    ]
+  },
+  "evaluation": {
+    "score": 52.5,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Velour Éclipse",
+    "story": "In the stillness of winter’s midnight, a velvety warmth unfolds—a blend of rare ambrette and smoky leather, kissed by whispers of amber and dark patchouli. Velour Éclipse is a tribute to the bold elegance of shadows, wrapping you in an aura as timeless and magnetic as the golden glow of candlelight against black silk."
+  },
+  "brief": "A winter scent for a luxury menswear boutique: confident, polished, evening wear.\nPrefer warm woods and a touch of leather. Brand colors: black and gold.",
+  "colors": []
+}
