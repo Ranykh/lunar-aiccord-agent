@@ -1,0 +1,119 @@
+{
+  "schema_version": "0.2",
+  "id": "verdant-veil-2f33ba",
+  "title": "Verdant Veil",
+  "season": "summer",
+  "mood": [
+    "laundry",
+    "charcoal"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "calone 1951",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "calone 1951",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "linalyl acetate",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "linalyl acetate",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "citronellol",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "citronellol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "hedione",
+      "grams": 13.333333333333332,
+      "role": "mid",
+      "material_id": "hedione",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "dihydro myrcenol",
+      "grams": 13.333333333333332,
+      "role": "mid",
+      "material_id": "dihydro myrcenol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iso eugenol",
+      "grams": 13.333333333333332,
+      "role": "mid",
+      "material_id": "iso eugenol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ambroxan crystals",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "ambroxan crystals",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cashmeran",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "cashmeran",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "galaxolide @ 50% ipm",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "galaxolide @ 50% ipm",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999999,
+    "brief": "refined green profile for laundry care; premium but approachable (summer) , colors: charcoal, lemon, lavender"
+  }
+}

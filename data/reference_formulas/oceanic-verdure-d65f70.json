@@ -1,0 +1,283 @@
+{
+  "schema_version": "0.2",
+  "id": "oceanic-verdure-d65f70",
+  "title": "Oceanic Verdure",
+  "season": "summer",
+  "mood": [
+    "coral"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "seaweed key accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "seaweed key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "seaweed absolute",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "seaweed absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "scentenal",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "scentenal",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "wintergreen essential oil, wild",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "wintergreen essential oil, wild",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "calone 1951",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "calone 1951",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary essential oil",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "rosemary essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple fragrance oil-15ml",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "apple fragrance oil-15ml",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cyclamen aldehyde",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "cyclamen aldehyde",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "almond, bitter essential oil",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "almond, bitter essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "stemone (g)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "stemone (g)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "nonadienal 1% (dpg)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "nonadienal 1% (dpg)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green floral",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "green floral",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sage essential oil, dalmatian",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "sage essential oil, dalmatian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "marine & ozone key accord",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "marine & ozone key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tetrahydro myrcenol",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "tetrahydro myrcenol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary co2, antioxidant (organic/spain)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "rosemary co2, antioxidant (organic/spain)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "hydroxycitronellal",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "hydroxycitronellal",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bamboo, pure, essential oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "bamboo, pure, essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ozofleur / marine hexane",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "ozofleur / marine hexane",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "galbanum essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "galbanum essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose oxide, racemic",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "rose oxide, racemic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999999,
+    "brief": "sport serene green office for a summer launch , colors: coral, cobalt, rose, #122C9A"
+  }
+}

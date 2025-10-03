@@ -1,0 +1,283 @@
+{
+  "schema_version": "0.2",
+  "id": "ember-veil-5d9c16",
+  "title": "Ember Veil",
+  "season": "winter",
+  "mood": [
+    "spicy"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "pepper essential oil, black",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "pepper essential oil, black",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "coriander essential oil",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "coriander essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cardamom co2, organic",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "cardamom co2, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper, white",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "pepper, white",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clove bud essential oil",
+      "grams": 4.285714285714286,
+      "role": "top",
+      "material_id": "clove bud essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cashmeran",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cashmeran",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper essential oil, black (madagascar)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "pepper essential oil, black (madagascar)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cardamom co2",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cardamom co2",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich amber",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "rich amber",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cardamom essential oil, organic",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cardamom essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aromatic woods",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "aromatic woods",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "coriander seed essential oil, organic",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "coriander seed essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber fleuressence / accord",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "amber fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood eo, hiba (japan)",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "cedarwood eo, hiba (japan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonquin musk imit.",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "tonquin musk imit.",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clove bud essential oil, organic",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "clove bud essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber essential oil",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "amber essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "teak (firmenich)",
+      "grams": 4.285714285714286,
+      "role": "base",
+      "material_id": "teak (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "comforting spicy boutique for a winter launch , colors: magenta, beige"
+  }
+}

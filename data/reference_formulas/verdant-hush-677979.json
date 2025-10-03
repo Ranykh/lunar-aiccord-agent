@@ -1,0 +1,286 @@
+{
+  "schema_version": "0.2",
+  "id": "verdant-hush-677979",
+  "title": "Verdant Hush",
+  "season": null,
+  "mood": [
+    "minimalist",
+    "airy",
+    "herbal",
+    "neutral"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "rosemary essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "eucalyptus radiata (narrow leaf) - organic essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "eucalyptus radiata (narrow leaf) - organic essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "verbena essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "verbena essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "terpineol alpha",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "terpineol alpha",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "thyme essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "thyme essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sage essential oil, white (usa)",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "sage essential oil, white (usa)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, sweet (ct. linalool) essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "basil, sweet (ct. linalool) essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "tea, green",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary co2, antioxidant (organic/spain)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "rosemary co2, antioxidant (organic/spain)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "helional (iff)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "helional (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sage essential oil, dalmatian",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "sage essential oil, dalmatian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, black fragrance oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "tea, black fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, m.c. essential oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "basil, m.c. essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "terpineol (drt)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "terpineol (drt)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ethylene brassylate / musc t",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "ethylene brassylate / musc t",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "eucalyptus citriodora essential oil",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "eucalyptus citriodora essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "petitgrain eo, bigarade, italy",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "petitgrain eo, bigarade, italy",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "gardenia key accord",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "gardenia key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999999,
+    "brief": "minimalist airy herbal profile for boutique; gender-neutral signature (all-season)"
+  }
+}

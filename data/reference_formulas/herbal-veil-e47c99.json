@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "herbal-veil-e47c99",
+  "title": "Herbal Veil",
+  "season": null,
+  "mood": [
+    "story",
+    "herbal",
+    "soft"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "clary sage essential oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "clary sage essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "violet fragrance oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "violet fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sage essential oil, white (usa)",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "sage essential oil, white (usa)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clary sage essential oil, french/organic",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "clary sage essential oil, french/organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary essential oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "rosemary essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "tea, green",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "terpineol alpha",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "terpineol alpha",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clary sage essential oil, french",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "clary sage essential oil, french",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green givco 228 (givaudan)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "tea, green givco 228 (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sage essential oil, dalmatian",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "sage essential oil, dalmatian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "violet leaf absolute @ 10% in fco (egypt)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "violet leaf absolute @ 10% in fco (egypt)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosemary co2, antioxidant (organic/spain)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "rosemary co2, antioxidant (organic/spain)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "helional (iff)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "helional (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "heliotropin replacer (50%)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "heliotropin replacer (50%)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "chamomile essential oil, blue",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "chamomile essential oil, blue",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vionil (10% dpg)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "vionil (10% dpg)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, sweet (ct. linalool) essential oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "basil, sweet (ct. linalool) essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clary sage absolute",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "clary sage absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aurantiol / auralva (i)",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "aurantiol / auralva (i)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rhodinol 70",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "rhodinol 70",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, m.c. essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "basil, m.c. essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amyl salicylate",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "amyl salicylate",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "all-season story with herbal facets for home diffuser; tone: zen soft , colors: taupe, plum, violet, #4FCCA3"
+  }
+}

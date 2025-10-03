@@ -1,0 +1,68 @@
+{
+  "top": [
+    {
+      "material_id": "linalool",
+      "name": "linalool",
+      "grams": 13.333333,
+      "percent": 13.333333
+    }
+  ],
+  "mid": [
+    {
+      "material_id": "padma",
+      "name": "padma",
+      "grams": 6.666667,
+      "percent": 6.666667
+    },
+    {
+      "material_id": "tropathiane",
+      "name": "tropathiane",
+      "grams": 6.666667,
+      "percent": 6.666667
+    },
+    {
+      "material_id": "indole",
+      "name": "indole",
+      "grams": 20.0,
+      "percent": 20.0
+    },
+    {
+      "material_id": "frankincense",
+      "name": "frankincense",
+      "grams": 13.333333,
+      "percent": 13.333333
+    },
+    {
+      "material_id": "benzoin",
+      "name": "benzoin",
+      "grams": 6.666667,
+      "percent": 6.666667
+    },
+    {
+      "material_id": "garlic",
+      "name": "garlic",
+      "grams": 13.333333,
+      "percent": 13.333333
+    },
+    {
+      "material_id": "phenyl-acetic-acid",
+      "name": "phenyl acetic acid",
+      "grams": 13.333333,
+      "percent": 13.333333
+    },
+    {
+      "material_id": "pea",
+      "name": "pea",
+      "grams": 6.666667,
+      "percent": 6.666667
+    }
+  ],
+  "base": [],
+  "total_grams": 100.0,
+  "tags": [
+    "disconformity",
+    "unisex",
+    "winter"
+  ],
+  "notes": []
+}

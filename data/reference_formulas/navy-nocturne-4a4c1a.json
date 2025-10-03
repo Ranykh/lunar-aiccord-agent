@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "navy-nocturne-4a4c1a",
+  "title": "Navy Nocturne",
+  "season": "spring",
+  "mood": [
+    "crisp",
+    "leathery",
+    "navy"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "labdanum absolute, clear",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "labdanum absolute, clear",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tobacco fleuressence / accord",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "tobacco fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "safraleine",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "safraleine",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch, sweet essential oil",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "birch, sweet essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "patchouli essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "russian leather",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "russian leather",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "labdanum resin absolute",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "labdanum resin absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cuir vitessence",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "cuir vitessence",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tobacco absolute",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "tobacco absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch tar essential oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "birch tar essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "jasmine sambac fleuressence / accord",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "jasmine sambac fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch tar oil, rectified",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "birch tar oil, rectified",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli (pogistemon)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "patchouli (pogistemon)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "teak (firmenich)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "teak (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "suederal lt (iff)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "suederal lt (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bacdanol (sandalarome)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "bacdanol (sandalarome)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amberwood (firmenich)  / bois ambrene forte",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "amberwood (firmenich)  / bois ambrene forte",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "leather key accord",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "leather key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tabanon",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "tabanon",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, ii",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "vetiver essential oil, ii",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cognac essential oil, french",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "cognac essential oil, french",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tobacco key accord",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "tobacco key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil, light (indonesia)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "patchouli essential oil, light (indonesia)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999999,
+    "brief": "crisp elegant leathery concept for event hall (spring) , colors: plum, navy"
+  }
+}

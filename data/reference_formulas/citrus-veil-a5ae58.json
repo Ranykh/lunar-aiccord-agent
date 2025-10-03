@@ -1,0 +1,283 @@
+{
+  "schema_version": "0.2",
+  "id": "citrus-veil-a5ae58",
+  "title": "Citrus Veil",
+  "season": "summer",
+  "mood": [
+    "everyday"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple, red - key accord",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "apple, red - key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange essential oil, blood",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "orange essential oil, blood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lavender absolute",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "lavender absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedar leaf, red western essential oil",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "cedar leaf, red western essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bergamot (g) fragrance",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "bergamot (g) fragrance",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple fragrance oil-15ml",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "apple fragrance oil-15ml",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood essential oil, blood",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cedarwood essential oil, blood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "clove bud essential oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "clove bud essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "myrrh coeur (iff)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "myrrh coeur (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lavender essential oil, high elevation",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "lavender essential oil, high elevation",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "amber",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bergamot essential oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "bergamot essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber fleuressence / accord",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "amber fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amyl acetate (normal)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "amyl acetate (normal)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-10 (decanal)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "aldehyde c-10 (decanal)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedramber (iff)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "cedramber (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lavender oil, natural",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "lavender oil, natural",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber key accord",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "amber key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vanilla absolute essential oil",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "vanilla absolute essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "elegant musk profile for office; elevated everyday (summer)"
+  }
+}

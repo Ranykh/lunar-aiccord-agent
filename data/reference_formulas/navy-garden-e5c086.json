@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "navy-garden-e5c086",
+  "title": "Navy Garden",
+  "season": "summer",
+  "mood": [
+    "goal",
+    "floral",
+    "navy"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lily of the valley",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "lily of the valley",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lilac fleuressence / accord",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "lilac fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "magnolia, fragrance oil",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "magnolia, fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "gardenia fleuressence / accord",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "gardenia fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, black fragrance oil",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "tea, black fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vionil (10% dpg)",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "vionil (10% dpg)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lotus fragrance oil",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "lotus fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose oxide, racemic",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rose oxide, racemic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "jasmin base firmenich 184165",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "jasmin base firmenich 184165",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "magnolia flower",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "magnolia flower",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosewood essential oil blend (bois de rose)",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rosewood essential oil blend (bois de rose)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose petal fleuressence / accord",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rose petal fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose absolute, bulgaria",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rose absolute, bulgaria",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "magnolia flower essential oil (sfo)",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "magnolia flower essential oil (sfo)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 14,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tetrahydro muguol",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "tetrahydro muguol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 15,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose essential oil",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rose essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 16,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich floral",
+      "grams": 2.3529411764705883,
+      "role": "mid",
+      "material_id": "rich floral",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 17,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ethylene brassylate / musc t",
+      "grams": 15.0,
+      "role": "base",
+      "material_id": "ethylene brassylate / musc t",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irisone",
+      "grams": 15.0,
+      "role": "base",
+      "material_id": "irisone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "brand vibe: zen vibrant; goal: floral impression in office (summer) , colors: white, navy"
+  }
+}

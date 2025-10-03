@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "amber-canopy-b46b9c",
+  "title": "Amber Canopy",
+  "season": "summer",
+  "mood": [
+    "soft",
+    "goal",
+    "lobby"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lilac fleuressence / accord",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "lilac fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple fragrance oil-15ml",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "apple fragrance oil-15ml",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pear natural",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "pear natural",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange flower key accord",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "orange flower key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "honey (miel) essence (i)",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "honey (miel) essence (i)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orance blossom fragrance oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "orance blossom fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "parsley seed essential oil",
+      "grams": 3.333333333333333,
+      "role": "top",
+      "material_id": "parsley seed essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lime essential oil, distlled",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "lime essential oil, distlled",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lisylang (robertet)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "lisylang (robertet)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple, red - key accord",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "apple, red - key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose petal fleuressence / accord",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "rose petal fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "peomosa / peony alcohol",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "peomosa / peony alcohol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber fleuressence / accord",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "amber fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch, sweet essential oil",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "birch, sweet essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "honey miel ollifac (iff)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "honey miel ollifac (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pear key accord (fragrance)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "pear key accord (fragrance)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch tar essential oil",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "birch tar essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "honey lactone essence (fragrance)",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "honey lactone essence (fragrance)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-14",
+      "grams": 7.5,
+      "role": "base",
+      "material_id": "aldehyde c-14",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000003,
+    "brief": "brand vibe: soft; goal: aldehydic impression in lobby (summer) , colors: amber, mint, silver, #B4FB0E"
+  }
+}

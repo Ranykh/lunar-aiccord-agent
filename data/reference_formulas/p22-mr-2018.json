@@ -1,0 +1,68 @@
+{
+  "top": [],
+  "mid": [
+    {
+      "material_id": "cedar-leaf--red",
+      "name": "cedar leaf (red)",
+      "grams": 24.0,
+      "percent": 24.0
+    },
+    {
+      "material_id": "sage--dalmatian",
+      "name": "sage, dalmatian",
+      "grams": 16.0,
+      "percent": 16.0
+    },
+    {
+      "material_id": "pepper-pink",
+      "name": "pepper pink",
+      "grams": 8.0,
+      "percent": 8.0
+    },
+    {
+      "material_id": "ambrinol",
+      "name": "ambrinol",
+      "grams": 4.0,
+      "percent": 4.0
+    },
+    {
+      "material_id": "indolene-50",
+      "name": "indolene 50",
+      "grams": 12.0,
+      "percent": 12.0
+    },
+    {
+      "material_id": "civet",
+      "name": "civet",
+      "grams": 8.0,
+      "percent": 8.0
+    },
+    {
+      "material_id": "terrasol",
+      "name": "terrasol",
+      "grams": 8.0,
+      "percent": 8.0
+    }
+  ],
+  "base": [
+    {
+      "material_id": "patchouli-ethanone",
+      "name": "patchouli ethanone",
+      "grams": 8.0,
+      "percent": 8.0
+    },
+    {
+      "material_id": "kephalis",
+      "name": "kephalis",
+      "grams": 12.0,
+      "percent": 12.0
+    }
+  ],
+  "total_grams": 100.0,
+  "tags": [
+    "p-22",
+    "summer",
+    "unisex"
+  ],
+  "notes": []
+}

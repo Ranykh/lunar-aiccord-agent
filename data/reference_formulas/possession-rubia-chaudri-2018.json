@@ -1,0 +1,87 @@
+{
+  "top": [
+    {
+      "material_id": "rose-oxide--racemic",
+      "name": "rose oxide, racemic",
+      "grams": 5.263158,
+      "percent": 5.263158
+    },
+    {
+      "material_id": "allyl-amyl-glycolate",
+      "name": "allyl amyl glycolate",
+      "grams": 5.263158,
+      "percent": 5.263158
+    },
+    {
+      "material_id": "linalool",
+      "name": "linalool",
+      "grams": 3.508772,
+      "percent": 3.508772
+    }
+  ],
+  "mid": [
+    {
+      "material_id": "frankincense",
+      "name": "frankincense",
+      "grams": 17.54386,
+      "percent": 17.54386
+    },
+    {
+      "material_id": "clove",
+      "name": "clove",
+      "grams": 5.263158,
+      "percent": 5.263158
+    },
+    {
+      "material_id": "eugenol",
+      "name": "eugenol",
+      "grams": 7.017544,
+      "percent": 7.017544
+    },
+    {
+      "material_id": "rose-key-accord",
+      "name": "rose key accord",
+      "grams": 8.77193,
+      "percent": 8.77193
+    },
+    {
+      "material_id": "pea",
+      "name": "pea",
+      "grams": 8.77193,
+      "percent": 8.77193
+    },
+    {
+      "material_id": "padma-viridine",
+      "name": "padma viridine",
+      "grams": 7.017544,
+      "percent": 7.017544
+    },
+    {
+      "material_id": "tripal",
+      "name": "tripal",
+      "grams": 5.263158,
+      "percent": 5.263158
+    }
+  ],
+  "base": [
+    {
+      "material_id": "guaiacol",
+      "name": "guaiacol",
+      "grams": 22.807018,
+      "percent": 22.807018
+    },
+    {
+      "material_id": "damascone-beta",
+      "name": "damascone beta",
+      "grams": 3.508772,
+      "percent": 3.508772
+    }
+  ],
+  "total_grams": 100.0,
+  "tags": [
+    "possession",
+    "summer",
+    "unisex"
+  ],
+  "notes": []
+}

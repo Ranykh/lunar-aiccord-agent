@@ -1,0 +1,281 @@
+{
+  "schema_version": "0.2",
+  "id": "winter-reverie-363baf",
+  "title": "Winter Reverie",
+  "season": "winter",
+  "mood": [],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "neroli & orange blossom (base)",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "neroli & orange blossom (base)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cucumber extract (nat) (advanced biotech)",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "cucumber extract (nat) (advanced biotech)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "eucalyptus citriodora essential oil",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "eucalyptus citriodora essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit essential oil, pink",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "grapefruit essential oil, pink",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom fragrance oil (premium)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "orange blossom fragrance oil (premium)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "freskomenthe (givaudan)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "freskomenthe (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange flower absolute, tunisia",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "orange flower absolute, tunisia",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit, white accord",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "grapefruit, white accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "limonene d",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "limonene d",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, sweet (ct. linalool) essential oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "basil, sweet (ct. linalool) essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orance blossom fragrance oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "orance blossom fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bamboo, pure, essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "bamboo, pure, essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "eucalyptus globulus (blue gum) essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "eucalyptus globulus (blue gum) essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, m.c. essential oil",
+      "grams": 6.0,
+      "role": "base",
+      "material_id": "basil, m.c. essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999999,
+    "brief": "vibrant ozonic concept for hotel room (winter) , colors: chartreuse, lavender"
+  }
+}

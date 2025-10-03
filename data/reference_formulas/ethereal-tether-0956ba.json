@@ -1,0 +1,284 @@
+{
+  "schema_version": "0.2",
+  "id": "ethereal-tether-0956ba",
+  "title": "Ethereal Tether",
+  "season": "spring",
+  "mood": [
+    "luminous",
+    "leathery"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "violet leaf absolute @ 10% in fco (egypt)",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "violet leaf absolute @ 10% in fco (egypt)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonka bean absolute",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "tonka bean absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cardamom co2, organic",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "cardamom co2, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "myrrh coeur (iff)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "myrrh coeur (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonquin musk imit.",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "tonquin musk imit.",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "violet fragrance oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "violet fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ambrette seed fleuressence / accord",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "ambrette seed fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vanilla bean key accord",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "vanilla bean key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cardamom essential oil, organic",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cardamom essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "leafovert / liffarome (iff)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "leafovert / liffarome (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cuir vitessence",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "cuir vitessence",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ambergris artessence (biolandes)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "ambergris artessence (biolandes)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irisone",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "irisone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cashmeran",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "cashmeran",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ionone, alpha-",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "ionone, alpha-",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tuberose fleuressence / accord",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "tuberose fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "suederal lt (iff)",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "suederal lt (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iris key accord",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "iris key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "russian leather",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "russian leather",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "leather key accord",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "leather key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ebony wood",
+      "grams": 3.0,
+      "role": "base",
+      "material_id": "ebony wood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "zen luminous leathery concept for boutique (spring) , colors: copper, #AE9BEC"
+  }
+}

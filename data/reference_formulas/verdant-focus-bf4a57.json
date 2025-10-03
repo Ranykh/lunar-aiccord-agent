@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "verdant-focus-bf4a57",
+  "title": "Verdant Focus",
+  "season": null,
+  "mood": [
+    "airy",
+    "fresh",
+    "goal"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "freskomenthe (givaudan)",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "freskomenthe (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "neroli & orange blossom (base)",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "neroli & orange blossom (base)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green givco 228 (givaudan)",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "tea, green givco 228 (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cucumber extract (nat) (advanced biotech)",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "cucumber extract (nat) (advanced biotech)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "verbena essential oil",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "verbena essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "limonene d",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "limonene d",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple fragrance oil-15ml",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "apple fragrance oil-15ml",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "almond, bitter essential oil",
+      "grams": 2.307692307692308,
+      "role": "top",
+      "material_id": "almond, bitter essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green floral",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "green floral",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bamboo, pure, essential oil",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "bamboo, pure, essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, black fragrance oil",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "tea, black fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom fragrance oil (premium)",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "orange blossom fragrance oil (premium)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange flower absolute, tunisia",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "orange flower absolute, tunisia",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "tea, green",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit essential oil, pink",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "grapefruit essential oil, pink",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "citronellol",
+      "grams": 5.0,
+      "role": "mid",
+      "material_id": "citronellol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tetrahydro myrcenol",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "tetrahydro myrcenol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orance blossom fragrance oil",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "orance blossom fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "brand vibe: airy fresh; goal: aldehydic impression in office (all-season)"
+  }
+}

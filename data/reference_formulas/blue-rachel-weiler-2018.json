@@ -1,0 +1,47 @@
+{
+  "top": [],
+  "mid": [
+    {
+      "material_id": "cadaverine",
+      "name": "cadaverine",
+      "grams": 19.230769,
+      "percent": 19.230769
+    },
+    {
+      "material_id": "tansy--blue",
+      "name": "tansy, blue",
+      "grams": 38.461538,
+      "percent": 38.461538
+    },
+    {
+      "material_id": "menthone",
+      "name": "menthone",
+      "grams": 11.538462,
+      "percent": 11.538462
+    },
+    {
+      "material_id": "turmeric",
+      "name": "turmeric",
+      "grams": 11.538462,
+      "percent": 11.538462
+    },
+    {
+      "material_id": "vetiver--haiti",
+      "name": "vetiver, haiti",
+      "grams": 19.230769,
+      "percent": 19.230769
+    }
+  ],
+  "base": [],
+  "total_grams": 100.0,
+  "tags": [
+    "blue",
+    "unisex",
+    "winter"
+  ],
+  "notes": [
+    "marine",
+    "mineral",
+    "ozonic"
+  ]
+}

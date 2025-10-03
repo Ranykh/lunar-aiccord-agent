@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.2",
+  "id": "noir-solstice-3f6099",
+  "title": "Noir Solstice",
+  "season": "summer",
+  "mood": [
+    "story",
+    "leathery",
+    "lobby"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "pepper essential oil, black",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "pepper essential oil, black",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cocoa essence",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "cocoa essence",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "labdanum absolute, clear",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "labdanum absolute, clear",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "myrrh coeur (iff)",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "myrrh coeur (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "blackcurrant leaf, fresh",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "blackcurrant leaf, fresh",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper essential oil, black (madagascar)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "pepper essential oil, black (madagascar)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "russian leather",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "russian leather",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "birch tar essential oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "birch tar essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil, dark (indonesia)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "patchouli essential oil, dark (indonesia)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cocoa absolute",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "cocoa absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amberwood (firmenich)  / bois ambrene forte",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "amberwood (firmenich)  / bois ambrene forte",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil, light (indonesia)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "patchouli essential oil, light (indonesia)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "labdanum resin absolute",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "labdanum resin absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich amber",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rich amber",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper, white",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "pepper, white",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cuir vitessence",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "cuir vitessence",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tobacco fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "tobacco fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil, light",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "patchouli essential oil, light",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "chocovan tec (givaudan)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "chocovan tec (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "patchouli essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "suederal lt (iff)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "suederal lt (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil (india)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "patchouli essential oil (india)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "liquidambar / styrax absolute",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "liquidambar / styrax absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "summer story with leathery facets for lobby; tone: zen , colors: black, fuchsia"
+  }
+}

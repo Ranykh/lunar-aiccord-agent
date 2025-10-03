@@ -1,0 +1,284 @@
+{
+  "schema_version": "0.2",
+  "id": "winter-veil-b3d026",
+  "title": "Winter Veil",
+  "season": "winter",
+  "mood": [
+    "minimalist",
+    "woody"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "pine needle oil",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "pine needle oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "hinoki wood",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "hinoki wood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood essential oil, blood",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "cedarwood essential oil, blood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "patchouli essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "guaiacwood eo, paraguay",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "guaiacwood eo, paraguay",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "hinoki",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "hinoki",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood absolute, white, 33%",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "cedarwood absolute, white, 33%",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "balsam fir needle essential oil",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "balsam fir needle essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli (pogistemon)",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "patchouli (pogistemon)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "guaiacol",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "guaiacol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amberwood (firmenich)  / bois ambrene forte",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "amberwood (firmenich)  / bois ambrene forte",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "terpineol alpha",
+      "grams": 4.444444444444445,
+      "role": "mid",
+      "material_id": "terpineol alpha",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "guaiacol @ 1% in pg",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "guaiacol @ 1% in pg",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aromatic woods",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "aromatic woods",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood eo, hiba (japan)",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "cedarwood eo, hiba (japan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amberketal ipm",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "amberketal ipm",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli ethanone",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "patchouli ethanone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian (organic)",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "vetiver essential oil, haitian (organic)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil, light (indonesia)",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "patchouli essential oil, light (indonesia)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich woods",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "rich woods",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood essential oil, virginia",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "cedarwood essential oil, virginia",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ebony wood",
+      "grams": 2.7272727272727275,
+      "role": "base",
+      "material_id": "ebony wood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000006,
+    "brief": "elegant minimalist woody concept for EDT (winter)"
+  }
+}

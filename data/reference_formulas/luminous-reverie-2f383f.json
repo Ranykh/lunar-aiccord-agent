@@ -1,0 +1,286 @@
+{
+  "schema_version": "0.2",
+  "id": "luminous-reverie-2f383f",
+  "title": "Luminous Reverie",
+  "season": null,
+  "mood": [
+    "story",
+    "fruity",
+    "lobby",
+    "clean"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lily of the valley",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "lily of the valley",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cyclamen aldehyde",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "cyclamen aldehyde",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "frangipani absolute (india)",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "frangipani absolute (india)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "seaweed key accord",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "seaweed key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "geranium essential oil, egypt",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "geranium essential oil, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lilial / lilestralis",
+      "grams": 3.75,
+      "role": "top",
+      "material_id": "lilial / lilestralis",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lilac fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "lilac fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange flower ether (alpha-terpinyl methyl ether)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "orange flower ether (alpha-terpinyl methyl ether)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lyral/leeral",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "lyral/leeral",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose oxide, racemic",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose oxide, racemic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irisone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "irisone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "violet fragrance oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "violet fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich woods",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rich woods",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple, red - key accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "apple, red - key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pineapple natural (robertet)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "pineapple natural (robertet)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ambergris artessence (biolandes)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "ambergris artessence (biolandes)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonquin musk imit.",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "tonquin musk imit.",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "blackwood",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "blackwood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iris key accord",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "iris key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "all-season story with fruity facets for lobby; tone: clean"
+  }
+}

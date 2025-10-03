@@ -1,0 +1,286 @@
+{
+  "schema_version": "0.2",
+  "id": "lumen-tides-8c8734",
+  "title": "Lumen Tides",
+  "season": null,
+  "mood": [
+    "story",
+    "luminous",
+    "crisp",
+    "navy"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "seaweed key accord",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "seaweed key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-11 lenic",
+      "grams": 6.0,
+      "role": "top",
+      "material_id": "aldehyde c-11 lenic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "onycha essential oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "onycha essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, black fragrance oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "tea, black fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tolu balsam essence",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "tolu balsam essence",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose essential oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich amber",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rich amber",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose oxide, racemic",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose oxide, racemic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "amber fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose petal fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose petal fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber essential oil",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "amber essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "labdanum absolute, clear",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "labdanum absolute, clear",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedar leaf, red western essential oil",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "cedar leaf, red western essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian (organic)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "vetiver essential oil, haitian (organic)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "all-season story with incense facets for retail floor; tone: luminous crisp , colors: navy, #DEEF58"
+  }
+}

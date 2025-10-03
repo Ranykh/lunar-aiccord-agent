@@ -1,0 +1,281 @@
+{
+  "schema_version": "0.2",
+  "id": "frosted-veil-326119",
+  "title": "Frosted Veil",
+  "season": "winter",
+  "mood": [],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "marine & ozone key accord",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "marine & ozone key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green leaf key accord",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "green leaf key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pear natural",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "pear natural",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit essential oil, pink",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "grapefruit essential oil, pink",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, holy essential oil",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "basil, holy essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 2.7272727272727275,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "freskomenthe (givaudan)",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "freskomenthe (givaudan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit, white accord",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "grapefruit, white accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "limonene d",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "limonene d",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, sweet (ct. linalool) essential oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "basil, sweet (ct. linalool) essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "grapefruit base 015794r",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "grapefruit base 015794r",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "neroli essential oil",
+      "grams": 4.0,
+      "role": "mid",
+      "material_id": "neroli essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bamboo, pure, essential oil",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "bamboo, pure, essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "basil, m.c. essential oil",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "basil, m.c. essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "zen comforting citrus EDP for a winter launch"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "top": [],
+  "mid": [
+    {
+      "material_id": "azuril",
+      "name": "azuril",
+      "grams": 12.280702,
+      "percent": 12.280702
+    },
+    {
+      "material_id": "turmeric",
+      "name": "turmeric",
+      "grams": 5.263158,
+      "percent": 5.263158
+    },
+    {
+      "material_id": "terpineol-alpha-acetate",
+      "name": "terpineol alpha acetate",
+      "grams": 17.54386,
+      "percent": 17.54386
+    },
+    {
+      "material_id": "ultrazur",
+      "name": "ultrazur",
+      "grams": 14.035088,
+      "percent": 14.035088
+    },
+    {
+      "material_id": "tonalide",
+      "name": "tonalide",
+      "grams": 10.526316,
+      "percent": 10.526316
+    },
+    {
+      "material_id": "basil--m-c",
+      "name": "basil, m.c.",
+      "grams": 10.526316,
+      "percent": 10.526316
+    },
+    {
+      "material_id": "vetiver--haiti",
+      "name": "vetiver, haiti",
+      "grams": 14.035088,
+      "percent": 14.035088
+    }
+  ],
+  "base": [
+    {
+      "material_id": "ionone-beta",
+      "name": "ionone beta",
+      "grams": 5.263158,
+      "percent": 5.263158
+    },
+    {
+      "material_id": "amber-key-accord",
+      "name": "amber key accord",
+      "grams": 10.526316,
+      "percent": 10.526316
+    }
+  ],
+  "total_grams": 100.0,
+  "tags": [
+    "blue",
+    "summer",
+    "unisex"
+  ],
+  "notes": [
+    "marine",
+    "mineral",
+    "ozonic"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "0.2",
+  "id": "amber-horizon-8ccfe0",
+  "title": "Amber Horizon",
+  "season": "summer",
+  "mood": [
+    "everyday"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple, red - key accord",
+      "grams": 8.0,
+      "role": "top",
+      "material_id": "apple, red - key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange essential oil, blood",
+      "grams": 7.0,
+      "role": "top",
+      "material_id": "orange essential oil, blood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 5.0,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "jasmine absolute, india",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "jasmine absolute, india",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose petal fleuressence / accord",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "rose petal fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "sandalwood essential oil @ 10%, australian",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "sandalwood essential oil @ 10%, australian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber key accord",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "amber key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vanilla absolute essential oil",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "vanilla absolute essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonka bean absolute",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "tonka bean absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "elegant musk profile for office; elevated everyday (summer)"
+  }
+}

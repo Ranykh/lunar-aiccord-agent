@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2",
+  "id": "lustre-vélo-d6f74f",
+  "title": "Lustre Vélo",
+  "season": "winter",
+  "mood": [
+    "day",
+    "versatility"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lemon essential oil",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "lemon essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "bergamot (g) fragrance",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "bergamot (g) fragrance",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-10 (decanal)",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "aldehyde c-10 (decanal)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iris key accord",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "iris key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 10.0,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irival (iff)",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "irival (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "adoxal",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "adoxal",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedramber (iff)",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "cedramber (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.0,
+    "brief": "zen musk profile for boutique; day-to-night versatility (winter)"
+  }
+}

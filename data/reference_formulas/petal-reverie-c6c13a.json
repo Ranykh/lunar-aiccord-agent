@@ -1,0 +1,284 @@
+{
+  "schema_version": "0.2",
+  "id": "petal-reverie-c6c13a",
+  "title": "Petal Reverie",
+  "season": "spring",
+  "mood": [
+    "crisp",
+    "soft"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "tea, green fragrance oil",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "tea, green fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apricot + peach fragrance oil",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "apricot + peach fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 10.0,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cashmeran",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "cashmeran",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tea, black fragrance oil",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "tea, black fragrance oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muguesia / muguet butanol",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "muguesia / muguet butanol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rosewood essential oil blend (bois de rose)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rosewood essential oil blend (bois de rose)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "amber fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "amber fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irisone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "irisone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "heliotropin replacer (50%)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "heliotropin replacer (50%)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose essential oil, turkish",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose essential oil, turkish",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rose petal fleuressence / accord",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "rose petal fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "guaiacwood eo, paraguay",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "guaiacwood eo, paraguay",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "teak (firmenich)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "teak (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood eo, hiba (japan)",
+      "grams": 3.076923076923077,
+      "role": "mid",
+      "material_id": "cedarwood eo, hiba (japan)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "myrrh coeur (iff)",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "myrrh coeur (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iris key accord",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "iris key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "helional (iff)",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "helional (iff)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "peomosa / peony alcohol",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "peomosa / peony alcohol",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich amber",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "rich amber",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "wood base (firmenich)",
+      "grams": 3.75,
+      "role": "base",
+      "material_id": "wood base (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "crisp soft incense event hall for a spring launch"
+  }
+}

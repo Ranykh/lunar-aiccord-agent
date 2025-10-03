@@ -1,0 +1,284 @@
+{
+  "schema_version": "0.2",
+  "id": "velour-ember-974e03",
+  "title": "Velour Ember",
+  "season": "winter",
+  "mood": [
+    "bold",
+    "lobby"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "pepper, white",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "pepper, white",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonka bean absolute",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "tonka bean absolute",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli (pogistemon)",
+      "grams": 7.5,
+      "role": "top",
+      "material_id": "patchouli (pogistemon)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "coffee bean co2, organic",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "coffee bean co2, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper, green, fresh",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "pepper, green, fresh",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, ii",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "vetiver essential oil, ii",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vanilla bean key accord",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "vanilla bean key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper essential oil, black",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "pepper essential oil, black",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-11 lenic",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "aldehyde c-11 lenic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "russian leather",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "russian leather",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "apple, red - key accord",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "apple, red - key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pineapple natural (robertet)",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "pineapple natural (robertet)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ambergris artessence (biolandes)",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "ambergris artessence (biolandes)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "menthone",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "menthone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 12,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lavender essential oil, french",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "lavender essential oil, french",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 13,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "mandarin essential oil, red",
+      "grams": 2.8571428571428568,
+      "role": "mid",
+      "material_id": "mandarin essential oil, red",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 14,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "terranol (symrise)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "terranol (symrise)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pepper essential oil, pink (peru)",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "pepper essential oil, pink (peru)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vetiver essential oil, haitian",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "vetiver essential oil, haitian",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde c-8",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "aldehyde c-8",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "patchouli essential oil",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "patchouli essential oil",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cedarwood essential oil, atlas",
+      "grams": 5.0,
+      "role": "base",
+      "material_id": "cedarwood essential oil, atlas",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 99.99999999999997,
+    "brief": "bold vibrant incense lobby for a winter launch"
+  }
+}

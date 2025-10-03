@@ -1,0 +1,284 @@
+{
+  "schema_version": "0.2",
+  "id": "linen-bloom-9c0117",
+  "title": "Linen Bloom",
+  "season": "spring",
+  "mood": [
+    "clean",
+    "laundry"
+  ],
+  "style": "unisex",
+  "formula": [
+    {
+      "material": "lily of the valley",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lily of the valley",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "pear natural",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "pear natural",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "white musk key accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "white musk key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "cucumber extract (nat) (advanced biotech)",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "cucumber extract (nat) (advanced biotech)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange blossom absolute, egypt",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "orange blossom absolute, egypt",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lilial / lilestralis",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lilial / lilestralis",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "seaweed key accord",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "seaweed key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lemon essential oil, organic",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lemon essential oil, organic",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lyral/leeral",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "lyral/leeral",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "aldehyde supra",
+      "grams": 3.0,
+      "role": "top",
+      "material_id": "aldehyde supra",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "lilac fleuressence / accord",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "lilac fleuressence / accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscenone (firmenich)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "muscenone (firmenich)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "vionil (10% dpg)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "vionil (10% dpg)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "hydrofleur",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "hydrofleur",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 4,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "rich woods",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "rich woods",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 5,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "orange essential oil, sweet (portugal)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "orange essential oil, sweet (portugal)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 6,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "musk ketone",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "musk ketone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 7,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "irisone",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "irisone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 8,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "tonquin musk imit.",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "tonquin musk imit.",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 9,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "ylang ylang (nature identical)",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "ylang ylang (nature identical)",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 10,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "green fleuressence / green leaf accord",
+      "grams": 3.6363636363636367,
+      "role": "mid",
+      "material_id": "green fleuressence / green leaf accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 11,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "muscemor / delta-muscenone",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "muscemor / delta-muscenone",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 1,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "blackwood",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "blackwood",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 2,
+      "supplier": null,
+      "dilution_percent": null
+    },
+    {
+      "material": "iris key accord",
+      "grams": 10.0,
+      "role": "base",
+      "material_id": "iris key accord",
+      "usage_max_pct": null,
+      "target_usage_mid_pct": null,
+      "line_index": 3,
+      "supplier": null,
+      "dilution_percent": null
+    }
+  ],
+  "meta": {
+    "author": "Lunar AIccord",
+    "year": 2025,
+    "license": "internal",
+    "total_grams_reported": 100.00000000000004,
+    "brief": "clean musk concept for laundry care (spring) , colors: taupe"
+  }
+}
