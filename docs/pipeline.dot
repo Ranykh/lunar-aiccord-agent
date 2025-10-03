@@ -1,0 +1,60 @@
+digraph LunarAICcord {
+  rankdir=LR;
+  node [shape=box, style="rounded,filled", color="#555", fontname="Inter"];
+
+  subgraph cluster_user {
+    label="User";
+    style="rounded";
+    color="#9bbcff";
+    brief   [label="Brief (string)", fillcolor="#eef3ff"];
+    colors  [label="Colors ([string])", fillcolor="#eef3ff"];
+  }
+
+  subgraph cluster_agents {
+    label="Agent Pipeline (LangGraph)";
+    style="rounded";
+    color="#d0d0d0";
+
+    INT [label="Intent Parser\nagent.intent_parser.parse_intent", fillcolor="#f9fafb"];
+    SEN [label="Sensory Moodboard\nagent.sensory_moodboard.build_seed", fillcolor="#f9fafb"];
+    RAG [label="Note RAG\nagent.note_rag.retrieve_candidates", fillcolor="#f9fafb"];
+    CMP [label="Scent Composer\nagent.scent_composer.compose", fillcolor="#f9fafb"];
+    COM [label="Compliance\nagent.compliance_agent.check/apply_fixes", fillcolor="#f9fafb"];
+    EVA [label="Evaluator\nagent.evaluator.evaluate", fillcolor="#f9fafb"];
+    BR  [label="Brand Styler\nagent.brand_styler.style", fillcolor="#f9fafb"];
+  }
+
+  subgraph cluster_ext {
+    label="External / Data";
+    style="rounded";
+    color="#d0e8ff";
+
+    QD [label="Qdrant\ncollection: lunar_notes_v1", shape=component, fillcolor="#f5faff"];
+    AO [label="Azure OpenAI\nchat: team6-gpt4o\nembed: team6-embedding", shape=component, fillcolor="#f5faff"];
+    IDX [label="Local indices\nindices/*.pkl", shape=folder, fillcolor="#fffbe6"];
+  }
+
+  OUT [label="Output JSON\n{formula, name, story,\ncompliance, score}", shape=note, fillcolor="#fffbe6"];
+
+  // Flow
+  brief -> INT;
+  colors -> INT;
+
+  INT -> SEN [label="intent"];
+  SEN -> RAG [label="seed"];
+  RAG -> CMP [label="candidates"];
+  CMP -> COM [label="draft formula"];
+  COM -> EVA [label="formula (final)"];
+  EVA -> BR  [label="score"];
+  BR  -> OUT;
+
+  // External deps
+  RAG -> QD [style=bold, color="#3b82f6"];
+  SEN -> AO [color="#3b82f6", style=dashed, label="(optional)"];
+  EVA -> AO [color="#3b82f6", style=dashed, label="(optional)"];
+  RAG -> IDX [style=dashed, color="#999", label="fallback"];
+
+  // Ranks
+  {rank=same; brief; colors}
+  {rank=same; QD; AO; IDX}
+}

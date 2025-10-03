@@ -1,0 +1,47 @@
+@startuml
+title Lunar AIccord – Sequence
+
+actor User as U
+participant "run.py (LangGraph app)" as RG
+participant "Intent Parser" as INT
+participant "Sensory Moodboard" as SEN
+participant "Note RAG" as RAG
+participant "Scent Composer" as CMP
+participant "Compliance" as COM
+participant "Evaluator" as EVA
+participant "Brand Styler" as BR
+database "Qdrant" as QD
+cloud "Azure OpenAI" as AO
+
+U -> RG: brief, colors
+RG -> INT: parse_intent(brief, colors)
+INT --> RG: intent{season,context,brand_tone,color_terms}
+
+RG -> SEN: build_seed(intent.brand_tone, intent.color_terms, story_text)
+SEN -> AO: (optional) refine / embed
+AO  --> SEN: refined seed (optional)
+SEN --> RG: seed{seed_notes[], emotion_text}
+
+RG -> RAG: retrieve_candidates(seed.seed_notes, emotion_text)
+RAG -> QD: vector search (top_k)
+QD  --> RAG: hits → candidates
+RAG --> RG: candidates{by_family}
+
+RG -> CMP: compose(candidates_iterable)
+CMP --> RG: draft_formula (dataclass)
+
+RG -> COM: check(draft_formula)
+COM --> RG: {ok, fixes[]} (+ apply_fixes) → final formula
+
+RG -> EVA: evaluate(formula, emotion_text)
+EVA -> AO: (optional) embed + cosine
+AO  --> EVA: score (optional)
+EVA --> RG: score, rationale
+
+RG -> BR: style(intent, formula)
+BR -> AO: (optional) chat name+story
+AO --> BR: {name, story}
+BR --> RG: branding
+
+RG --> U: JSON {formula, compliance, evaluation, branding}
+@enduml
