@@ -1,0 +1,490 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.27823343873023987,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.268686980009079,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "sea water",
+        "family": "top",
+        "score": 0.24428552389144897,
+        "source": "oriflame glacier-athletic"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.22656670212745667,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.22546733915805817,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "green notes",
+        "family": "top",
+        "score": 0.1913929581642151,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "green notes",
+        "family": "mid",
+        "score": 0.18562886118888855,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "green notes",
+        "family": "base",
+        "score": 0.17330271005630493,
+        "source": "zara classics-12-0"
+      },
+      {
+        "note": "marine notes",
+        "family": "mid",
+        "score": 0.15235894918441772,
+        "source": "filippo-sorcinelli quickie-and-coffee"
+      },
+      {
+        "note": "ozonic notes",
+        "family": "top",
+        "score": 0.13454508781433105,
+        "source": "rook-perfumes school"
+      },
+      {
+        "note": "ozonic notes",
+        "family": "mid",
+        "score": 0.12929043173789978,
+        "source": "calaj t-shelby"
+      },
+      {
+        "note": "ozonic notes",
+        "family": "base",
+        "score": 0.12508323788642883,
+        "source": "dzintars kokete-2"
+      },
+      {
+        "note": "sea salt",
+        "family": "mid",
+        "score": 0.10953067243099213,
+        "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.10723898559808731,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "calone",
+        "family": "top",
+        "score": 0.10663678497076035,
+        "source": "mizensir anticonformiste"
+      },
+      {
+        "note": "cyclamen",
+        "family": "mid",
+        "score": 0.09895142912864685,
+        "source": "filippo-sorcinelli cyber-sex"
+      },
+      {
+        "note": "basil",
+        "family": "base",
+        "score": 0.09337247908115387,
+        "source": "zoologist-perfumes dodo-edition-2020"
+      },
+      {
+        "note": "cyclamen",
+        "family": "top",
+        "score": 0.09239151328802109,
+        "source": "clean clean-baby-girl"
+      },
+      {
+        "note": "cyclamen",
+        "family": "base",
+        "score": 0.09203186631202698,
+        "source": "oriflame ice"
+      },
+      {
+        "note": "water notes",
+        "family": "top",
+        "score": 0.08853913843631744,
+        "source": "clean h2eau-golden-citrus"
+      },
+      {
+        "note": "water notes",
+        "family": "base",
+        "score": 0.0884232223033905,
+        "source": "bruno-banani made-for-women"
+      },
+      {
+        "note": "grapefruit",
+        "family": "top",
+        "score": 0.08840260654687881,
+        "source": "bruno-banani pride-edition-man"
+      },
+      {
+        "note": "basil",
+        "family": "top",
+        "score": 0.08788326382637024,
+        "source": "franck-boclet flowers"
+      },
+      {
+        "note": "water notes",
+        "family": "mid",
+        "score": 0.08742567896842957,
+        "source": "calvin-klein ck-free-blue"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.27823343873023987,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "sea water",
+          "family": "top",
+          "score": 0.24428552389144897,
+          "source": "oriflame glacier-athletic"
+        },
+        {
+          "note": "green notes",
+          "family": "top",
+          "score": 0.1913929581642151,
+          "source": "xerjoff accento-overdose-pride-edition"
+        },
+        {
+          "note": "ozonic notes",
+          "family": "top",
+          "score": 0.13454508781433105,
+          "source": "rook-perfumes school"
+        },
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.10723898559808731,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "calone",
+          "family": "top",
+          "score": 0.10663678497076035,
+          "source": "mizensir anticonformiste"
+        },
+        {
+          "note": "cyclamen",
+          "family": "top",
+          "score": 0.09239151328802109,
+          "source": "clean clean-baby-girl"
+        },
+        {
+          "note": "water notes",
+          "family": "top",
+          "score": 0.08853913843631744,
+          "source": "clean h2eau-golden-citrus"
+        },
+        {
+          "note": "grapefruit",
+          "family": "top",
+          "score": 0.08840260654687881,
+          "source": "bruno-banani pride-edition-man"
+        },
+        {
+          "note": "basil",
+          "family": "top",
+          "score": 0.08788326382637024,
+          "source": "franck-boclet flowers"
+        }
+      ],
+      "mid": [
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.268686980009079,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.22656670212745667,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "green notes",
+          "family": "mid",
+          "score": 0.18562886118888855,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "marine notes",
+          "family": "mid",
+          "score": 0.15235894918441772,
+          "source": "filippo-sorcinelli quickie-and-coffee"
+        },
+        {
+          "note": "ozonic notes",
+          "family": "mid",
+          "score": 0.12929043173789978,
+          "source": "calaj t-shelby"
+        },
+        {
+          "note": "sea salt",
+          "family": "mid",
+          "score": 0.10953067243099213,
+          "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+        },
+        {
+          "note": "cyclamen",
+          "family": "mid",
+          "score": 0.09895142912864685,
+          "source": "filippo-sorcinelli cyber-sex"
+        },
+        {
+          "note": "water notes",
+          "family": "mid",
+          "score": 0.08742567896842957,
+          "source": "calvin-klein ck-free-blue"
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.22546733915805817,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "green notes",
+          "family": "base",
+          "score": 0.17330271005630493,
+          "source": "zara classics-12-0"
+        },
+        {
+          "note": "ozonic notes",
+          "family": "base",
+          "score": 0.12508323788642883,
+          "source": "dzintars kokete-2"
+        },
+        {
+          "note": "basil",
+          "family": "base",
+          "score": 0.09337247908115387,
+          "source": "zoologist-perfumes dodo-edition-2020"
+        },
+        {
+          "note": "cyclamen",
+          "family": "base",
+          "score": 0.09203186631202698,
+          "source": "oriflame ice"
+        },
+        {
+          "note": "water notes",
+          "family": "base",
+          "score": 0.0884232223033905,
+          "source": "bruno-banani made-for-women"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "calone 1951",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "sea",
+            "salty",
+            "fresh",
+            "watery",
+            "melon",
+            "cucumber",
+            "oceanic",
+            "clean",
+            "fresh sea-breeze note - popular 'aqua' type colognes."
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "linalyl acetate",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "bergamot",
+            "tea",
+            "sweet",
+            "useful to add top notes when you don't want either citrus or lavender to be apparent in your blend",
+            "powdery aspect",
+            "fresh",
+            "clean",
+            "spiced"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "citronellol",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "rose",
+            "lemony",
+            "musty",
+            "fresh floral"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "hedione",
+        "grams": 13.333333333333332,
+        "percent": 13.333333333333332,
+        "info": {
+          "descriptors": [
+            "airy",
+            "watery",
+            "fresh",
+            "light",
+            "ozone",
+            "white floral"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "dihydro myrcenol",
+        "grams": 13.333333333333332,
+        "percent": 13.333333333333332,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent",
+            "cologne",
+            "lavendar",
+            "piney",
+            "laundry detergent version of pine"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "hedione",
+        "grams": 13.333333333333332,
+        "percent": 13.333333333333332,
+        "info": {
+          "descriptors": [
+            "airy",
+            "watery",
+            "fresh",
+            "light",
+            "ozone",
+            "white floral"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "ambrox (dl)",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "ambergris",
+            "musk",
+            "mineral",
+            "tender wood"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "cashmeran",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental",
+            "musky",
+            "woody",
+            "wet",
+            "polished",
+            "cashmere",
+            "forest after the rain"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "galaxolide @ 50% ipm",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "musk",
+            "light",
+            "sweet",
+            "ethereal",
+            "laundry",
+            "fresh",
+            "chiffon",
+            "billowy"
+          ],
+          "aliases": []
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 51.4,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Azure Serenity",
+    "story": "Immerse yourself in the tranquil embrace of Azure Serenity, a fragrance inspired by the stillness of pristine waters. With ethereal aquatic top notes, a heart of radiant florals, and a velvety, musky base, this scent transforms every moment into an oasis of calm and elegance."
+  },
+  "brief": "relaxing spa fragrance for a luxury hotel on a rooftop",
+  "colors": [
+    "blue"
+  ],
+  "mode": "brief"
+}

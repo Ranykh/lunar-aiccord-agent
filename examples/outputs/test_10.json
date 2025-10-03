@@ -1,0 +1,470 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.2967217266559601,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.2865409255027771,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "sea water",
+        "family": "top",
+        "score": 0.28213879466056824,
+        "source": "oriflame glacier-athletic"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.26167434453964233,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.2604046165943146,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "white amber",
+        "family": "base",
+        "score": 0.16203084588050842,
+        "source": "sergio-tacchini with-you"
+      },
+      {
+        "note": "white amber",
+        "family": "mid",
+        "score": 0.15717077255249023,
+        "source": "zara metamber"
+      },
+      {
+        "note": "sea salt",
+        "family": "mid",
+        "score": 0.15396234393119812,
+        "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.15074102580547333,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "marine notes",
+        "family": "mid",
+        "score": 0.12079671025276184,
+        "source": "filippo-sorcinelli quickie-and-coffee"
+      },
+      {
+        "note": "calone",
+        "family": "top",
+        "score": 0.09992969036102295,
+        "source": "mizensir anticonformiste"
+      },
+      {
+        "note": "cyclamen",
+        "family": "mid",
+        "score": 0.09272772073745728,
+        "source": "filippo-sorcinelli cyber-sex"
+      },
+      {
+        "note": "driftwood",
+        "family": "base",
+        "score": 0.09013082087039948,
+        "source": "nest amazon-lily"
+      },
+      {
+        "note": "driftwood",
+        "family": "mid",
+        "score": 0.08981628715991974,
+        "source": "vilhelm-parfumerie london-funk"
+      },
+      {
+        "note": "cyclamen",
+        "family": "top",
+        "score": 0.08658039569854736,
+        "source": "clean clean-baby-girl"
+      },
+      {
+        "note": "cyclamen",
+        "family": "base",
+        "score": 0.08624336868524551,
+        "source": "oriflame ice"
+      },
+      {
+        "note": "white musk",
+        "family": "mid",
+        "score": 0.08370420336723328,
+        "source": "brocard snow-palace"
+      },
+      {
+        "note": "lotus",
+        "family": "mid",
+        "score": 0.08086197823286057,
+        "source": "brocard cherry-lady"
+      },
+      {
+        "note": "mineral notes",
+        "family": "mid",
+        "score": 0.07958868891000748,
+        "source": "les-parfums-de-rosine bleu-abysse"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.07936950773000717,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.07838258147239685,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "mineral notes",
+        "family": "top",
+        "score": 0.07706671953201294,
+        "source": "trussardi the-italian-artists-of-via-solferino"
+      },
+      {
+        "note": "grapefruit",
+        "family": "",
+        "score": 0.0747511088848114,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "flint",
+        "family": "",
+        "score": 0.0743161216378212,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.2967217266559601,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "sea water",
+          "family": "top",
+          "score": 0.28213879466056824,
+          "source": "oriflame glacier-athletic"
+        },
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.15074102580547333,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "calone",
+          "family": "top",
+          "score": 0.09992969036102295,
+          "source": "mizensir anticonformiste"
+        },
+        {
+          "note": "cyclamen",
+          "family": "top",
+          "score": 0.08658039569854736,
+          "source": "clean clean-baby-girl"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.07838258147239685,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "mineral notes",
+          "family": "top",
+          "score": 0.07706671953201294,
+          "source": "trussardi the-italian-artists-of-via-solferino"
+        }
+      ],
+      "mid": [
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.2865409255027771,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.26167434453964233,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "white amber",
+          "family": "mid",
+          "score": 0.15717077255249023,
+          "source": "zara metamber"
+        },
+        {
+          "note": "sea salt",
+          "family": "mid",
+          "score": 0.15396234393119812,
+          "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+        },
+        {
+          "note": "marine notes",
+          "family": "mid",
+          "score": 0.12079671025276184,
+          "source": "filippo-sorcinelli quickie-and-coffee"
+        },
+        {
+          "note": "cyclamen",
+          "family": "mid",
+          "score": 0.09272772073745728,
+          "source": "filippo-sorcinelli cyber-sex"
+        },
+        {
+          "note": "driftwood",
+          "family": "mid",
+          "score": 0.08981628715991974,
+          "source": "vilhelm-parfumerie london-funk"
+        },
+        {
+          "note": "white musk",
+          "family": "mid",
+          "score": 0.08370420336723328,
+          "source": "brocard snow-palace"
+        },
+        {
+          "note": "lotus",
+          "family": "mid",
+          "score": 0.08086197823286057,
+          "source": "brocard cherry-lady"
+        },
+        {
+          "note": "mineral notes",
+          "family": "mid",
+          "score": 0.07958868891000748,
+          "source": "les-parfums-de-rosine bleu-abysse"
+        },
+        {
+          "note": "grapefruit",
+          "family": "",
+          "score": 0.0747511088848114,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "flint",
+          "family": "",
+          "score": 0.0743161216378212,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.2604046165943146,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "white amber",
+          "family": "base",
+          "score": 0.16203084588050842,
+          "source": "sergio-tacchini with-you"
+        },
+        {
+          "note": "driftwood",
+          "family": "base",
+          "score": 0.09013082087039948,
+          "source": "nest amazon-lily"
+        },
+        {
+          "note": "cyclamen",
+          "family": "base",
+          "score": 0.08624336868524551,
+          "source": "oriflame ice"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.07936950773000717,
+          "source": "sospiro-perfumes erba-oud"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "marine & ozone key accord",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "aquamate",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "onycha essential oil",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "calone 1951",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "cyclamen aldehyde",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "white musk key accord",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      },
+      {
+        "name": "ambergris artessence (biolandes)",
+        "grams": 4.285714285714286,
+        "percent": 4.285714285714286,
+        "info": {}
+      }
+    ],
+    "mid": [
+      {
+        "name": "seaweed key accord",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "seaweed absolute",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "rich amber",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "calone 161",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "martima / marine pyridine",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "ionone, alpha-",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "rich woods",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "muscenone (firmenich)",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "lotus fragrance oil",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "geosmin @ 3%",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "grapefruit essential oil, pink",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      },
+      {
+        "name": "root fleuressence / accord",
+        "grams": 3.333333333333333,
+        "percent": 3.333333333333333,
+        "info": {}
+      }
+    ],
+    "base": [
+      {
+        "name": "ozofleur / marine hexane",
+        "grams": 6.0,
+        "percent": 6.0,
+        "info": {}
+      },
+      {
+        "name": "ambrarome abs. (synarome)",
+        "grams": 6.0,
+        "percent": 6.0,
+        "info": {}
+      },
+      {
+        "name": "cedarwood absolute, white, 33%",
+        "grams": 6.0,
+        "percent": 6.0,
+        "info": {}
+      },
+      {
+        "name": "ionone alpha (white coeur)",
+        "grams": 6.0,
+        "percent": 6.0,
+        "info": {}
+      },
+      {
+        "name": "muscemor / delta-muscenone",
+        "grams": 6.0,
+        "percent": 6.0,
+        "info": {}
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 52.1,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Ethereal Tide",
+    "story": "Ethereal Tide captures the fleeting essence of waves meeting the shore at dawn. A luminous blend of marine ozone, delicate seaweed, and a whisper of ambergris evokes the serenity of an endless summer horizon, where the sea and sky become one."
+  },
+  "brief": "minimalist summer marine linen #CFE8FF",
+  "colors": [],
+  "mode": "brief"
+}

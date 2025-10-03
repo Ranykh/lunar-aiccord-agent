@@ -1,0 +1,323 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.6178344,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "salted musks",
+        "family": "",
+        "score": 0.60987735,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.5750171,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.55949724,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.55644596,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "water lily",
+        "family": "",
+        "score": 0.55547315,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.5471609,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "lily-of-the-valley",
+        "family": "base",
+        "score": 0.54517853,
+        "source": "attar-collection floral-musk"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.54086876,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "cyclamen",
+        "family": "",
+        "score": 0.53543544,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "rose water",
+        "family": "",
+        "score": 0.5345006,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.5325054,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "salt",
+        "family": "mid",
+        "score": 0.5312316,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "lily of the valley",
+        "family": "",
+        "score": 0.52862793,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "night blooming jasmine",
+        "family": "mid",
+        "score": 0.5264641,
+        "source": "house-of-sillage whispers-of-temptation"
+      },
+      {
+        "note": "litsea cubeba",
+        "family": "top",
+        "score": 0.52414906,
+        "source": "bortnikoff cologne-de-la-terre"
+      },
+      {
+        "note": "amberseed",
+        "family": "",
+        "score": 0.522651,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "sea salt",
+        "family": "mid",
+        "score": 0.5214816,
+        "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+      },
+      {
+        "note": "jasmine petals",
+        "family": "",
+        "score": 0.520783,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "water notes",
+        "family": "top",
+        "score": 0.5201249,
+        "source": "clean h2eau-golden-citrus"
+      },
+      {
+        "note": "osmanthus",
+        "family": "",
+        "score": 0.5190508,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "coconut water",
+        "family": "mid",
+        "score": 0.5187366,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "peony",
+        "family": "",
+        "score": 0.51391226,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "water notes",
+        "family": "mid",
+        "score": 0.5119719,
+        "source": "calvin-klein ck-free-blue"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.55949724,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.55644596,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.5471609,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "litsea cubeba",
+          "family": "top",
+          "score": 0.52414906,
+          "source": "bortnikoff cologne-de-la-terre"
+        },
+        {
+          "note": "water notes",
+          "family": "top",
+          "score": 0.5201249,
+          "source": "clean h2eau-golden-citrus"
+        }
+      ],
+      "mid": [
+        {
+          "note": "salted musks",
+          "family": "",
+          "score": 0.60987735,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.5750171,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "water lily",
+          "family": "",
+          "score": 0.55547315,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.54086876,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "cyclamen",
+          "family": "",
+          "score": 0.53543544,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "rose water",
+          "family": "",
+          "score": 0.5345006,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "salt",
+          "family": "mid",
+          "score": 0.5312316,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "lily of the valley",
+          "family": "",
+          "score": 0.52862793,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "night blooming jasmine",
+          "family": "mid",
+          "score": 0.5264641,
+          "source": "house-of-sillage whispers-of-temptation"
+        },
+        {
+          "note": "amberseed",
+          "family": "",
+          "score": 0.522651,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "sea salt",
+          "family": "mid",
+          "score": 0.5214816,
+          "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+        },
+        {
+          "note": "jasmine petals",
+          "family": "",
+          "score": 0.520783,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "osmanthus",
+          "family": "",
+          "score": 0.5190508,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "coconut water",
+          "family": "mid",
+          "score": 0.5187366,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "peony",
+          "family": "",
+          "score": 0.51391226,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "water notes",
+          "family": "mid",
+          "score": 0.5119719,
+          "source": "calvin-klein ck-free-blue"
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.6178344,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "lily-of-the-valley",
+          "family": "base",
+          "score": 0.54517853,
+          "source": "attar-collection floral-musk"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.5325054,
+          "source": "sospiro-perfumes erba-oud"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [],
+    "mid": [],
+    "base": []
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 46.6,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Azure Veil",
+    "story": "A whisper of sea air dances with sunlit citrus, draping the skin in a serene embrace. Azure Veil captures the essence of tranquil shores and endless horizons, evoking the purity of summer's quiet moments."
+  },
+  "brief": "minimalist summer marine linen #CFE8FF",
+  "colors": [],
+  "mode": "brief"
+}

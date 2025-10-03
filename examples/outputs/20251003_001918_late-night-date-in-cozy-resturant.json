@@ -1,0 +1,482 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "birch tar",
+        "family": "base",
+        "score": 0.2636602222919464,
+        "source": "heretic-parfums poltergeist"
+      },
+      {
+        "note": "black pepper",
+        "family": "mid",
+        "score": 0.20404505729675293,
+        "source": "ricardo-ramos-perfumes-de-autor al-misk"
+      },
+      {
+        "note": "black pepper",
+        "family": "top",
+        "score": 0.19694413244724274,
+        "source": "o-boticario men-brahma"
+      },
+      {
+        "note": "dark patchouli",
+        "family": "base",
+        "score": 0.18007630109786987,
+        "source": "ds-durga deep-dark-vanilla"
+      },
+      {
+        "note": "vetiver",
+        "family": "mid",
+        "score": 0.13347220420837402,
+        "source": "franck-boclet vetiver"
+      },
+      {
+        "note": "russian leather",
+        "family": "",
+        "score": 0.13144204020500183,
+        "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+      },
+      {
+        "note": "birch leaf",
+        "family": "mid",
+        "score": 0.11993469297885895,
+        "source": "amway quixotic"
+      },
+      {
+        "note": "dark chocolate",
+        "family": "base",
+        "score": 0.11898424476385117,
+        "source": "avon cherish-escape"
+      },
+      {
+        "note": "patchouli leaf",
+        "family": "base",
+        "score": 0.11467219889163971,
+        "source": "oriflame rival"
+      },
+      {
+        "note": "dark chocolate",
+        "family": "mid",
+        "score": 0.11454986035823822,
+        "source": "aaron-terence-hughes filth"
+      },
+      {
+        "note": "dark chocolate",
+        "family": "top",
+        "score": 0.11384808272123337,
+        "source": "haught-parfums chocolate-wasted"
+      },
+      {
+        "note": "suede",
+        "family": "base",
+        "score": 0.10137782245874405,
+        "source": "vivamor-parfums rouge-imperiale"
+      },
+      {
+        "note": "indonesian patchouli leaf",
+        "family": "base",
+        "score": 0.1013028472661972,
+        "source": "vivamor-parfums sweet-sin"
+      },
+      {
+        "note": "indonesian patchouli leaf",
+        "family": "mid",
+        "score": 0.10110688209533691,
+        "source": "fragrance-du-bois pm"
+      },
+      {
+        "note": "labdanum",
+        "family": "mid",
+        "score": 0.10039405524730682,
+        "source": "filippo-sorcinelli slightly-b-tch"
+      },
+      {
+        "note": "black amber",
+        "family": "mid",
+        "score": 0.09915925562381744,
+        "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+      },
+      {
+        "note": "labdanum",
+        "family": "base",
+        "score": 0.09859756380319595,
+        "source": "navitus-parfums oud-luxuria"
+      },
+      {
+        "note": "labdanum",
+        "family": "top",
+        "score": 0.09082481265068054,
+        "source": "les-liquides-imaginaires liquide-2020"
+      },
+      {
+        "note": "suede",
+        "family": "mid",
+        "score": 0.09051043540239334,
+        "source": "lattafa-perfumes oud-mood-elixir"
+      },
+      {
+        "note": "tobacco",
+        "family": "mid",
+        "score": 0.08871839940547943,
+        "source": "bohoboco wild-carrot-oud"
+      },
+      {
+        "note": "dark plum wu mei",
+        "family": "top",
+        "score": 0.08856736123561859,
+        "source": "avon rare-onyx"
+      },
+      {
+        "note": "black currant leaf",
+        "family": "top",
+        "score": 0.08665981888771057,
+        "source": "in-the-box aventhis"
+      },
+      {
+        "note": "birch",
+        "family": "base",
+        "score": 0.08558286726474762,
+        "source": "trump success"
+      },
+      {
+        "note": "birch",
+        "family": "mid",
+        "score": 0.08509093523025513,
+        "source": "in-the-box aventhis"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "black pepper",
+          "family": "top",
+          "score": 0.19694413244724274,
+          "source": "o-boticario men-brahma"
+        },
+        {
+          "note": "dark chocolate",
+          "family": "top",
+          "score": 0.11384808272123337,
+          "source": "haught-parfums chocolate-wasted"
+        },
+        {
+          "note": "labdanum",
+          "family": "top",
+          "score": 0.09082481265068054,
+          "source": "les-liquides-imaginaires liquide-2020"
+        },
+        {
+          "note": "dark plum wu mei",
+          "family": "top",
+          "score": 0.08856736123561859,
+          "source": "avon rare-onyx"
+        },
+        {
+          "note": "black currant leaf",
+          "family": "top",
+          "score": 0.08665981888771057,
+          "source": "in-the-box aventhis"
+        }
+      ],
+      "mid": [
+        {
+          "note": "black pepper",
+          "family": "mid",
+          "score": 0.20404505729675293,
+          "source": "ricardo-ramos-perfumes-de-autor al-misk"
+        },
+        {
+          "note": "vetiver",
+          "family": "mid",
+          "score": 0.13347220420837402,
+          "source": "franck-boclet vetiver"
+        },
+        {
+          "note": "russian leather",
+          "family": "",
+          "score": 0.13144204020500183,
+          "source": "Givenchy Givenchy Gentleman — A classic fragrance with a stylish mix of Vetiver, Patchouli and Leath"
+        },
+        {
+          "note": "birch leaf",
+          "family": "mid",
+          "score": 0.11993469297885895,
+          "source": "amway quixotic"
+        },
+        {
+          "note": "dark chocolate",
+          "family": "mid",
+          "score": 0.11454986035823822,
+          "source": "aaron-terence-hughes filth"
+        },
+        {
+          "note": "indonesian patchouli leaf",
+          "family": "mid",
+          "score": 0.10110688209533691,
+          "source": "fragrance-du-bois pm"
+        },
+        {
+          "note": "labdanum",
+          "family": "mid",
+          "score": 0.10039405524730682,
+          "source": "filippo-sorcinelli slightly-b-tch"
+        },
+        {
+          "note": "black amber",
+          "family": "mid",
+          "score": 0.09915925562381744,
+          "source": "ricardo-ramos-perfumes-de-autor sacromonte"
+        },
+        {
+          "note": "suede",
+          "family": "mid",
+          "score": 0.09051043540239334,
+          "source": "lattafa-perfumes oud-mood-elixir"
+        },
+        {
+          "note": "tobacco",
+          "family": "mid",
+          "score": 0.08871839940547943,
+          "source": "bohoboco wild-carrot-oud"
+        },
+        {
+          "note": "birch",
+          "family": "mid",
+          "score": 0.08509093523025513,
+          "source": "in-the-box aventhis"
+        }
+      ],
+      "base": [
+        {
+          "note": "birch tar",
+          "family": "base",
+          "score": 0.2636602222919464,
+          "source": "heretic-parfums poltergeist"
+        },
+        {
+          "note": "dark patchouli",
+          "family": "base",
+          "score": 0.18007630109786987,
+          "source": "ds-durga deep-dark-vanilla"
+        },
+        {
+          "note": "dark chocolate",
+          "family": "base",
+          "score": 0.11898424476385117,
+          "source": "avon cherish-escape"
+        },
+        {
+          "note": "patchouli leaf",
+          "family": "base",
+          "score": 0.11467219889163971,
+          "source": "oriflame rival"
+        },
+        {
+          "note": "suede",
+          "family": "base",
+          "score": 0.10137782245874405,
+          "source": "vivamor-parfums rouge-imperiale"
+        },
+        {
+          "note": "indonesian patchouli leaf",
+          "family": "base",
+          "score": 0.1013028472661972,
+          "source": "vivamor-parfums sweet-sin"
+        },
+        {
+          "note": "labdanum",
+          "family": "base",
+          "score": 0.09859756380319595,
+          "source": "navitus-parfums oud-luxuria"
+        },
+        {
+          "note": "birch",
+          "family": "base",
+          "score": 0.08558286726474762,
+          "source": "trump success"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "pepper essential oil, black",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "warm",
+            "piquant",
+            "exotic",
+            "dry",
+            "pepper",
+            "tar",
+            "gin"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "cocoa essence",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "edible",
+            "dessert-like",
+            "chocolate",
+            "caramel",
+            "bitter",
+            "sharp cocoa note",
+            "subtly lactonic",
+            "bitter chocolate",
+            "rum"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "labdanum absolute, clear",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "sweet",
+            "resinous",
+            "warm",
+            "vanillic",
+            "oriental"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "russian leather",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "musky",
+            "civet",
+            "leathery",
+            "dirty",
+            "leather",
+            "musk",
+            "aldehydic",
+            "musky leather",
+            "citrus at top",
+            "definitely aldehydic",
+            "spicy"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "birch tar essential oil",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "vetiver essential oil, haitian",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "soil",
+            "mossy",
+            "rooty",
+            "dark"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "suederal lt (iff)",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "tarry",
+            "suede",
+            "smoky",
+            "animalic",
+            "leather",
+            "expensive shoes"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "patchouli essential oil",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "camphorous/medicinal",
+            "aged",
+            "humid",
+            "silvery",
+            "wet dirt",
+            "sweet"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "birch tar oil, rectified",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "burnt",
+            "phenolic",
+            "campfire",
+            "like smoke on your clothes the day after camping."
+          ],
+          "aliases": []
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 49.3,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Nocturne Veil",
+    "story": "In the stillness of twilight, Nocturne Veil unfolds like a whispered secret. Smoky Russian leather and Haitian vetiver embrace the warmth of cocoa and patchouli, while a trace of pepper lingers, igniting intrigue. Envelop yourself in its dark, velvety cocoon—mysterious, comforting, unforgettable."
+  },
+  "brief": "late night date in cozy resturant",
+  "colors": [
+    "black"
+  ],
+  "mode": "brief"
+}

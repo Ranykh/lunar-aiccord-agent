@@ -1,0 +1,691 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "white musk",
+        "family": "mid",
+        "score": 0.19188855588436127,
+        "source": "brocard snow-palace"
+      },
+      {
+        "note": "orange blossom",
+        "family": "mid",
+        "score": 0.18615984916687012,
+        "source": "jean-paul-gaultier classique-pride-2024"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.18195146322250366,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "orange blossom",
+        "family": "top",
+        "score": 0.18031767010688782,
+        "source": "oriflame giordani-gold"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.1796889454126358,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "orange blossom",
+        "family": "base",
+        "score": 0.17869828641414642,
+        "source": "oriflame chiffon"
+      },
+      {
+        "note": "green notes",
+        "family": "top",
+        "score": 0.1764843910932541,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "green notes",
+        "family": "mid",
+        "score": 0.17116928100585938,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "green notes",
+        "family": "base",
+        "score": 0.15980328619480133,
+        "source": "zara classics-12-0"
+      },
+      {
+        "note": "tunisian orange blossom",
+        "family": "mid",
+        "score": 0.14933812618255615,
+        "source": "lubin magda"
+      },
+      {
+        "note": "bitter orange blossom",
+        "family": "top",
+        "score": 0.1484283208847046,
+        "source": "thera-cosmeticos hipos"
+      },
+      {
+        "note": "grapefruit blossom",
+        "family": "mid",
+        "score": 0.131601482629776,
+        "source": "faberlic citronica"
+      },
+      {
+        "note": "cucumber",
+        "family": "top",
+        "score": 0.12304478138685226,
+        "source": "trump donald-trump"
+      },
+      {
+        "note": "green pear",
+        "family": "top",
+        "score": 0.11169913411140442,
+        "source": "dior bonne-etoile-baby-dior"
+      },
+      {
+        "note": "pear blossom",
+        "family": "top",
+        "score": 0.10857643187046051,
+        "source": "guess bella-vita-paradiso"
+      },
+      {
+        "note": "basil",
+        "family": "base",
+        "score": 0.09854960441589355,
+        "source": "zoologist-perfumes dodo-edition-2020"
+      },
+      {
+        "note": "grapefruit",
+        "family": "top",
+        "score": 0.09330416470766068,
+        "source": "bruno-banani pride-edition-man"
+      },
+      {
+        "note": "basil",
+        "family": "top",
+        "score": 0.09275603294372559,
+        "source": "franck-boclet flowers"
+      },
+      {
+        "note": "muguet",
+        "family": "",
+        "score": 0.09183861315250397,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "white musk",
+        "family": "",
+        "score": 0.09119349718093872,
+        "source": "Giorgio Armani Acqua di Gi pour Homme — A light fresh fragrance. The male counterpart to Acqua di Gi"
+      },
+      {
+        "note": "basil",
+        "family": "mid",
+        "score": 0.08783309906721115,
+        "source": "jafra jf9-red"
+      },
+      {
+        "note": "aldehydes",
+        "family": "top",
+        "score": 0.08710028231143951,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "grapefruit",
+        "family": "mid",
+        "score": 0.08635717630386353,
+        "source": "desigual love"
+      },
+      {
+        "note": "aldehydes",
+        "family": "mid",
+        "score": 0.0860719084739685,
+        "source": "al-haramain-perfumes ehsas"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "orange blossom",
+          "family": "top",
+          "score": 0.18031767010688782,
+          "source": "oriflame giordani-gold"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.1796889454126358,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "green notes",
+          "family": "top",
+          "score": 0.1764843910932541,
+          "source": "xerjoff accento-overdose-pride-edition"
+        },
+        {
+          "note": "bitter orange blossom",
+          "family": "top",
+          "score": 0.1484283208847046,
+          "source": "thera-cosmeticos hipos"
+        },
+        {
+          "note": "cucumber",
+          "family": "top",
+          "score": 0.12304478138685226,
+          "source": "trump donald-trump"
+        },
+        {
+          "note": "green pear",
+          "family": "top",
+          "score": 0.11169913411140442,
+          "source": "dior bonne-etoile-baby-dior"
+        },
+        {
+          "note": "pear blossom",
+          "family": "top",
+          "score": 0.10857643187046051,
+          "source": "guess bella-vita-paradiso"
+        },
+        {
+          "note": "grapefruit",
+          "family": "top",
+          "score": 0.09330416470766068,
+          "source": "bruno-banani pride-edition-man"
+        },
+        {
+          "note": "basil",
+          "family": "top",
+          "score": 0.09275603294372559,
+          "source": "franck-boclet flowers"
+        },
+        {
+          "note": "aldehydes",
+          "family": "top",
+          "score": 0.08710028231143951,
+          "source": "xerjoff accento-overdose-pride-edition"
+        }
+      ],
+      "mid": [
+        {
+          "note": "white musk",
+          "family": "mid",
+          "score": 0.19188855588436127,
+          "source": "brocard snow-palace"
+        },
+        {
+          "note": "orange blossom",
+          "family": "mid",
+          "score": 0.18615984916687012,
+          "source": "jean-paul-gaultier classique-pride-2024"
+        },
+        {
+          "note": "green notes",
+          "family": "mid",
+          "score": 0.17116928100585938,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "tunisian orange blossom",
+          "family": "mid",
+          "score": 0.14933812618255615,
+          "source": "lubin magda"
+        },
+        {
+          "note": "grapefruit blossom",
+          "family": "mid",
+          "score": 0.131601482629776,
+          "source": "faberlic citronica"
+        },
+        {
+          "note": "muguet",
+          "family": "",
+          "score": 0.09183861315250397,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "white musk",
+          "family": "",
+          "score": 0.09119349718093872,
+          "source": "Giorgio Armani Acqua di Gi pour Homme — A light fresh fragrance. The male counterpart to Acqua di Gi"
+        },
+        {
+          "note": "basil",
+          "family": "mid",
+          "score": 0.08783309906721115,
+          "source": "jafra jf9-red"
+        },
+        {
+          "note": "grapefruit",
+          "family": "mid",
+          "score": 0.08635717630386353,
+          "source": "desigual love"
+        },
+        {
+          "note": "aldehydes",
+          "family": "mid",
+          "score": 0.0860719084739685,
+          "source": "al-haramain-perfumes ehsas"
+        }
+      ],
+      "base": [
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.18195146322250366,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "orange blossom",
+          "family": "base",
+          "score": 0.17869828641414642,
+          "source": "oriflame chiffon"
+        },
+        {
+          "note": "green notes",
+          "family": "base",
+          "score": 0.15980328619480133,
+          "source": "zara classics-12-0"
+        },
+        {
+          "note": "basil",
+          "family": "base",
+          "score": 0.09854960441589355,
+          "source": "zoologist-perfumes dodo-edition-2020"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "orange blossom absolute, egypt",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent",
+            "floral"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "white musk key accord",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "musky",
+            "civet",
+            "leathery",
+            "dirty",
+            "musk",
+            "animalic",
+            "fluffy",
+            "floral",
+            "soft fur",
+            "laundry",
+            "formula at perfumers apprentice"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "green fleuressence / green leaf accord",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "leafy",
+            "stemmy",
+            "dewy",
+            "cut grass"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "neroli & orange blossom (base)",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent",
+            "citrus",
+            "white floral",
+            "sweet",
+            "candied white floral",
+            "clean"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "cucumber extract (nat) (advanced biotech)",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "marine",
+            "watery",
+            "ozonic",
+            "fresh",
+            "cucumber",
+            "vegetal",
+            "fresh cucumber",
+            "running water",
+            "vegetable"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "pear natural",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "juicy",
+            "lactonic",
+            "jammy",
+            "sweet",
+            "pear",
+            "banana",
+            "banana pear composition",
+            "fruity",
+            "tropical fruit"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "rose petal fleuressence / accord",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "grapefruit essential oil, pink",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "mandarin",
+            "orange",
+            "mandarin orange jelly belly"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "basil, holy essential oil",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "menthol",
+            "citrus",
+            "bright"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "aldehyde supra",
+        "grams": 3.0,
+        "percent": 3.0,
+        "info": {
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "muscenone (firmenich)",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "vintagey"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "orange blossom fragrance oil (premium)",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent",
+            "orange blossom",
+            "fragrance oil"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "freskomenthe (givaudan)",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "clean",
+            "airy",
+            "bright",
+            "crisp",
+            "minty",
+            "woody",
+            "camphor",
+            "bright spearmint",
+            "peppermint",
+            "camphoraceous"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "orange flower absolute, tunisia",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "grapefruit, white accord",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "grapefruit"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "muguesia / muguet butanol",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "muguet"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "musk ketone",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "musk",
+            "animalic"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "basil, sweet (ct. linalool) essential oil",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "fresh basil",
+            "sweet"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "grapefruit base 015794r",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "cassis",
+            "slight cassis undertone"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "aldehyde c-8",
+        "grams": 4.0,
+        "percent": 4.0,
+        "info": {
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "muscemor / delta-muscenone",
+        "grams": 7.5,
+        "percent": 7.5,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "orance blossom fragrance oil",
+        "grams": 7.5,
+        "percent": 7.5,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "bamboo, pure, essential oil",
+        "grams": 7.5,
+        "percent": 7.5,
+        "info": {
+          "descriptors": [
+            "leafy",
+            "stemmy",
+            "dewy",
+            "cut grass"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "basil, m.c. essential oil",
+        "grams": 7.5,
+        "percent": 7.5,
+        "info": {
+          "descriptors": "",
+          "aliases": []
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 49.9,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Citrus Veil",
+    "story": "A luminous embrace of orange blossom and neroli dances with crisp green leaves and a whisper of basil, evoking a serene garden at dawn. Soft musk and pear linger delicately, a harmonious blend of vitality and grace. Citrus Veil is an ode to timeless elegance, where fresh meets ethereal."
+  },
+  "brief": "Morning Breeze in Amalfi Coast",
+  "colors": [],
+  "mode": "brief"
+}

@@ -1,0 +1,376 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.6567284,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "salted musks",
+        "family": "",
+        "score": 0.6344641,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.5938721,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.59371,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "salt",
+        "family": "mid",
+        "score": 0.58320713,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.58160424,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "sea salt",
+        "family": "mid",
+        "score": 0.5696446,
+        "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+      },
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.56692696,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.5628177,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.5560175,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "water lily",
+        "family": "",
+        "score": 0.5541232,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "coconut water",
+        "family": "mid",
+        "score": 0.5527198,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "lush accord: bamboo",
+        "family": "",
+        "score": 0.5488047,
+        "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+      },
+      {
+        "note": "sandalwood",
+        "family": "",
+        "score": 0.54683113,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "water notes",
+        "family": "top",
+        "score": 0.5467416,
+        "source": "clean h2eau-golden-citrus"
+      },
+      {
+        "note": "cardamom",
+        "family": "",
+        "score": 0.54486597,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "baies rose",
+        "family": "",
+        "score": 0.54476506,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "litsea cubeba",
+        "family": "top",
+        "score": 0.54415905,
+        "source": "bortnikoff cologne-de-la-terre"
+      },
+      {
+        "note": "atlas cedarwood",
+        "family": "",
+        "score": 0.5439528,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "musks",
+        "family": "",
+        "score": 0.54329824,
+        "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+      },
+      {
+        "note": "pink peppercorn",
+        "family": "",
+        "score": 0.5404373,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "geranium leaves",
+        "family": "",
+        "score": 0.5400854,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "osmanthus",
+        "family": "",
+        "score": 0.537945,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "jasmine petals",
+        "family": "",
+        "score": 0.5378632,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.5938721,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.56692696,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.5628177,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "water notes",
+          "family": "top",
+          "score": 0.5467416,
+          "source": "clean h2eau-golden-citrus"
+        },
+        {
+          "note": "litsea cubeba",
+          "family": "top",
+          "score": 0.54415905,
+          "source": "bortnikoff cologne-de-la-terre"
+        }
+      ],
+      "mid": [
+        {
+          "note": "salted musks",
+          "family": "",
+          "score": 0.6344641,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.59371,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "salt",
+          "family": "mid",
+          "score": 0.58320713,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.58160424,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "sea salt",
+          "family": "mid",
+          "score": 0.5696446,
+          "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+        },
+        {
+          "note": "water lily",
+          "family": "",
+          "score": 0.5541232,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "coconut water",
+          "family": "mid",
+          "score": 0.5527198,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "lush accord: bamboo",
+          "family": "",
+          "score": 0.5488047,
+          "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+        },
+        {
+          "note": "sandalwood",
+          "family": "",
+          "score": 0.54683113,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "cardamom",
+          "family": "",
+          "score": 0.54486597,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "baies rose",
+          "family": "",
+          "score": 0.54476506,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "atlas cedarwood",
+          "family": "",
+          "score": 0.5439528,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "musks",
+          "family": "",
+          "score": 0.54329824,
+          "source": "Calvin Klein Truth Calvin Klein — Truth doesn't follow the usual Topnote, Heartnote, Basenotes struc"
+        },
+        {
+          "note": "pink peppercorn",
+          "family": "",
+          "score": 0.5404373,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "geranium leaves",
+          "family": "",
+          "score": 0.5400854,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "osmanthus",
+          "family": "",
+          "score": 0.537945,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "jasmine petals",
+          "family": "",
+          "score": 0.5378632,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.6567284,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.5560175,
+          "source": "sospiro-perfumes erba-oud"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "sea notes",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "sea water",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "calone",
+        "grams": 10.0,
+        "percent": 10.0
+      }
+    ],
+    "mid": [
+      {
+        "name": "cyclamen",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "Sea breeze",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "Saltwater",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "Mineral accord",
+        "grams": 10.0,
+        "percent": 10.0
+      }
+    ],
+    "base": [
+      {
+        "name": "Driftwood",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "Ocean spray",
+        "grams": 10.0,
+        "percent": 10.0
+      },
+      {
+        "name": "Watery musk",
+        "grams": 10.0,
+        "percent": 10.0
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 49.3,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Azure Veil",
+    "story": "A delicate embrace of ocean mist and sunlit driftwood, Azure Veil whispers the serenity of summer’s endless horizon. Its minimalist blend evokes the crystalline essence of sea air and coastal calm, leaving behind an ethereal trail of watery musk and salt-kissed breeze."
+  },
+  "brief": "minimalist summer marine linen #CFE8FF",
+  "colors": [],
+  "mode": "brief"
+}

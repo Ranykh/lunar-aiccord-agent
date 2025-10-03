@@ -1,0 +1,487 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "yellow freesia",
+        "family": "top",
+        "score": 0.263698011636734,
+        "source": "avon perceive"
+      },
+      {
+        "note": "lemon zest",
+        "family": "top",
+        "score": 0.2286488264799118,
+        "source": "carolina-herrera 212-heroes-collector-edition"
+      },
+      {
+        "note": "white musk",
+        "family": "mid",
+        "score": 0.1753387749195099,
+        "source": "brocard snow-palace"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.16625872254371643,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.1641913503408432,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "green notes",
+        "family": "top",
+        "score": 0.16126316785812378,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "green notes",
+        "family": "mid",
+        "score": 0.1564064919948578,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "green notes",
+        "family": "base",
+        "score": 0.146020770072937,
+        "source": "zara classics-12-0"
+      },
+      {
+        "note": "lemon verbena",
+        "family": "top",
+        "score": 0.12651847302913666,
+        "source": "bybozo french-kiss"
+      },
+      {
+        "note": "verbena",
+        "family": "top",
+        "score": 0.09200861304998398,
+        "source": "paris-elysees vodka-pink"
+      },
+      {
+        "note": "basil",
+        "family": "base",
+        "score": 0.09005001187324524,
+        "source": "zoologist-perfumes dodo-edition-2020"
+      },
+      {
+        "note": "grapefruit",
+        "family": "top",
+        "score": 0.08525697886943817,
+        "source": "bruno-banani pride-edition-man"
+      },
+      {
+        "note": "basil",
+        "family": "top",
+        "score": 0.08475612103939056,
+        "source": "franck-boclet flowers"
+      },
+      {
+        "note": "muguet",
+        "family": "",
+        "score": 0.08391782641410828,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "white musk",
+        "family": "",
+        "score": 0.08332833647727966,
+        "source": "Giorgio Armani Acqua di Gi pour Homme — A light fresh fragrance. The male counterpart to Acqua di Gi"
+      },
+      {
+        "note": "basil",
+        "family": "mid",
+        "score": 0.08025778084993362,
+        "source": "jafra jf9-red"
+      },
+      {
+        "note": "aldehydes",
+        "family": "top",
+        "score": 0.0795881599187851,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "grapefruit",
+        "family": "mid",
+        "score": 0.07890914380550385,
+        "source": "desigual love"
+      },
+      {
+        "note": "aldehydes",
+        "family": "mid",
+        "score": 0.07864847779273987,
+        "source": "al-haramain-perfumes ehsas"
+      },
+      {
+        "note": "neroli",
+        "family": "mid",
+        "score": 0.07838504016399384,
+        "source": "jean-paul-gaultier classique-pride-2024"
+      },
+      {
+        "note": "bamboo",
+        "family": "",
+        "score": 0.07715221494436264,
+        "source": "Givenchy Eau Torride — A green and fresh fragrance designed for men and women."
+      },
+      {
+        "note": "neroli",
+        "family": "top",
+        "score": 0.07594452053308487,
+        "source": "bybozo french-kiss"
+      },
+      {
+        "note": "grapefruit blossom",
+        "family": "mid",
+        "score": 0.07576417922973633,
+        "source": "faberlic citronica"
+      },
+      {
+        "note": "black basil",
+        "family": "top",
+        "score": 0.07529012858867645,
+        "source": "trump donald-trump"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "yellow freesia",
+          "family": "top",
+          "score": 0.263698011636734,
+          "source": "avon perceive"
+        },
+        {
+          "note": "lemon zest",
+          "family": "top",
+          "score": 0.2286488264799118,
+          "source": "carolina-herrera 212-heroes-collector-edition"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.1641913503408432,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "green notes",
+          "family": "top",
+          "score": 0.16126316785812378,
+          "source": "xerjoff accento-overdose-pride-edition"
+        },
+        {
+          "note": "lemon verbena",
+          "family": "top",
+          "score": 0.12651847302913666,
+          "source": "bybozo french-kiss"
+        },
+        {
+          "note": "verbena",
+          "family": "top",
+          "score": 0.09200861304998398,
+          "source": "paris-elysees vodka-pink"
+        },
+        {
+          "note": "grapefruit",
+          "family": "top",
+          "score": 0.08525697886943817,
+          "source": "bruno-banani pride-edition-man"
+        },
+        {
+          "note": "basil",
+          "family": "top",
+          "score": 0.08475612103939056,
+          "source": "franck-boclet flowers"
+        },
+        {
+          "note": "aldehydes",
+          "family": "top",
+          "score": 0.0795881599187851,
+          "source": "xerjoff accento-overdose-pride-edition"
+        },
+        {
+          "note": "neroli",
+          "family": "top",
+          "score": 0.07594452053308487,
+          "source": "bybozo french-kiss"
+        },
+        {
+          "note": "black basil",
+          "family": "top",
+          "score": 0.07529012858867645,
+          "source": "trump donald-trump"
+        }
+      ],
+      "mid": [
+        {
+          "note": "white musk",
+          "family": "mid",
+          "score": 0.1753387749195099,
+          "source": "brocard snow-palace"
+        },
+        {
+          "note": "green notes",
+          "family": "mid",
+          "score": 0.1564064919948578,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "muguet",
+          "family": "",
+          "score": 0.08391782641410828,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "white musk",
+          "family": "",
+          "score": 0.08332833647727966,
+          "source": "Giorgio Armani Acqua di Gi pour Homme — A light fresh fragrance. The male counterpart to Acqua di Gi"
+        },
+        {
+          "note": "basil",
+          "family": "mid",
+          "score": 0.08025778084993362,
+          "source": "jafra jf9-red"
+        },
+        {
+          "note": "grapefruit",
+          "family": "mid",
+          "score": 0.07890914380550385,
+          "source": "desigual love"
+        },
+        {
+          "note": "aldehydes",
+          "family": "mid",
+          "score": 0.07864847779273987,
+          "source": "al-haramain-perfumes ehsas"
+        },
+        {
+          "note": "neroli",
+          "family": "mid",
+          "score": 0.07838504016399384,
+          "source": "jean-paul-gaultier classique-pride-2024"
+        },
+        {
+          "note": "bamboo",
+          "family": "",
+          "score": 0.07715221494436264,
+          "source": "Givenchy Eau Torride — A green and fresh fragrance designed for men and women."
+        },
+        {
+          "note": "grapefruit blossom",
+          "family": "mid",
+          "score": 0.07576417922973633,
+          "source": "faberlic citronica"
+        }
+      ],
+      "base": [
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.16625872254371643,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "green notes",
+          "family": "base",
+          "score": 0.146020770072937,
+          "source": "zara classics-12-0"
+        },
+        {
+          "note": "basil",
+          "family": "base",
+          "score": 0.09005001187324524,
+          "source": "zoologist-perfumes dodo-edition-2020"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "lemon essential oil, organic",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "green fleuressence / green leaf accord",
+        "grams": 8.0,
+        "percent": 8.0,
+        "info": {
+          "descriptors": [
+            "leafy",
+            "stemmy",
+            "dewy",
+            "cut grass"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "grapefruit essential oil, pink",
+        "grams": 7.0,
+        "percent": 7.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "mandarin",
+            "orange",
+            "mandarin orange jelly belly"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "aldehyde supra",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "freskomenthe (givaudan)",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "clean",
+            "airy",
+            "bright",
+            "crisp",
+            "minty",
+            "woody",
+            "camphor",
+            "bright spearmint",
+            "peppermint",
+            "camphoraceous"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "muguesia / muguet butanol",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "muguet"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "muscenone (firmenich)",
+        "grams": 8.0,
+        "percent": 8.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "vintagey"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "grapefruit, white accord",
+        "grams": 7.0,
+        "percent": 7.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "grapefruit"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "muscemor / delta-muscenone",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "wintergreen essential oil, wild",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": "",
+          "aliases": []
+        }
+      },
+      {
+        "name": "bergamot oil, italy, fcf",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy",
+            "tea",
+            "fresh"
+          ],
+          "aliases": []
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 50.7,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Citrus Elevé",
+    "story": "Bask in the energy of summer with Citrus Elevé, a vibrant blend of zesty lemon and pink grapefruit that invigorates your senses. A cooling minty heart and soft musky base uplift your post-workout glow, leaving you refreshed and radiant all season long."
+  },
+  "brief": "vegas vibes in the summer inside a gym near the beach",
+  "colors": [
+    "yellow"
+  ],
+  "mode": "brief"
+}

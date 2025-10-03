@@ -1,0 +1,547 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.615911,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.6105643,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.59556097,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "litsea cubeba",
+        "family": "top",
+        "score": 0.5948776,
+        "source": "bortnikoff cologne-de-la-terre"
+      },
+      {
+        "note": "water notes",
+        "family": "top",
+        "score": 0.5801511,
+        "source": "clean h2eau-golden-citrus"
+      },
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.57203245,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.56960607,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "melon",
+        "family": "mid",
+        "score": 0.5592358,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "orange",
+        "family": "top",
+        "score": 0.5588153,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "geranium leaves",
+        "family": "",
+        "score": 0.55874157,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "salt",
+        "family": "mid",
+        "score": 0.5581963,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "salted musks",
+        "family": "",
+        "score": 0.5569411,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "water lily",
+        "family": "",
+        "score": 0.5523968,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "damask rose",
+        "family": "",
+        "score": 0.54771125,
+        "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+      },
+      {
+        "note": "peach",
+        "family": "mid",
+        "score": 0.5475041,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "osmanthus",
+        "family": "",
+        "score": 0.54618174,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "verbena",
+        "family": "",
+        "score": 0.545919,
+        "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+      },
+      {
+        "note": "tunisian neroli",
+        "family": "top",
+        "score": 0.5454948,
+        "source": "house-of-sillage whispers-of-time"
+      },
+      {
+        "note": "mock orange",
+        "family": "mid",
+        "score": 0.54426557,
+        "source": "maison-francis-kurkdjian aqua-universalis-cologne-forte"
+      },
+      {
+        "note": "water notes",
+        "family": "mid",
+        "score": 0.54235744,
+        "source": "calvin-klein ck-free-blue"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.5419117,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "italian lemon",
+        "family": "top",
+        "score": 0.54044855,
+        "source": "navitus-parfums desir-infini"
+      },
+      {
+        "note": "cyclamen",
+        "family": "",
+        "score": 0.5401939,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "floral fruity notes",
+        "family": "mid",
+        "score": 0.5398537,
+        "source": "natura intensa"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.59556097,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "litsea cubeba",
+          "family": "top",
+          "score": 0.5948776,
+          "source": "bortnikoff cologne-de-la-terre"
+        },
+        {
+          "note": "water notes",
+          "family": "top",
+          "score": 0.5801511,
+          "source": "clean h2eau-golden-citrus"
+        },
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.57203245,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "orange",
+          "family": "top",
+          "score": 0.5588153,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "tunisian neroli",
+          "family": "top",
+          "score": 0.5454948,
+          "source": "house-of-sillage whispers-of-time"
+        },
+        {
+          "note": "italian lemon",
+          "family": "top",
+          "score": 0.54044855,
+          "source": "navitus-parfums desir-infini"
+        }
+      ],
+      "mid": [
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.6105643,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "melon",
+          "family": "mid",
+          "score": 0.5592358,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "geranium leaves",
+          "family": "",
+          "score": 0.55874157,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "salt",
+          "family": "mid",
+          "score": 0.5581963,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "salted musks",
+          "family": "",
+          "score": 0.5569411,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "water lily",
+          "family": "",
+          "score": 0.5523968,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "damask rose",
+          "family": "",
+          "score": 0.54771125,
+          "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+        },
+        {
+          "note": "peach",
+          "family": "mid",
+          "score": 0.5475041,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "osmanthus",
+          "family": "",
+          "score": 0.54618174,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "verbena",
+          "family": "",
+          "score": 0.545919,
+          "source": "Acqua di Parma Acqua di Parma Colonia — Starts off with a snappy citrus bite then dries down into a "
+        },
+        {
+          "note": "mock orange",
+          "family": "mid",
+          "score": 0.54426557,
+          "source": "maison-francis-kurkdjian aqua-universalis-cologne-forte"
+        },
+        {
+          "note": "water notes",
+          "family": "mid",
+          "score": 0.54235744,
+          "source": "calvin-klein ck-free-blue"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.5419117,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "cyclamen",
+          "family": "",
+          "score": 0.5401939,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "floral fruity notes",
+          "family": "mid",
+          "score": 0.5398537,
+          "source": "natura intensa"
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.615911,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.56960607,
+          "source": "sospiro-perfumes erba-oud"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "adoxal",
+        "role": "top",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "adoxal",
+        "role": "mid",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "adoxal",
+        "role": "mid",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "adoxal",
+        "role": "mid",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "adoxal",
+        "role": "mid",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      },
+      {
+        "name": "adoxal",
+        "role": "mid",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "adoxal",
+        "role": "base",
+        "grams": 12.0,
+        "percent": 12.0,
+        "info": {
+          "from_note": "",
+          "material": "adoxal",
+          "family": "aldehydic",
+          "descriptors": [
+            "fatty",
+            "waxy",
+            "soapy",
+            "sparkling",
+            "fresh",
+            "marine",
+            "floral",
+            "fresh linen"
+          ],
+          "aliases": [],
+          "usage_hint_pct": {
+            "edp_min": 0.5,
+            "edp_max": 12.0
+          },
+          "usage_max_pct": 12.0,
+          "stock_solution_pct": 0.1,
+          "target_usage_mid_pct": 6.25
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": false,
+    "warnings": [],
+    "fixes": [
+      {
+        "material": "adoxal",
+        "from_pct": 30.0,
+        "to_pct": 12.0,
+        "from_g": 30.0,
+        "to_g": 12.0,
+        "reason": "usage_max clamp"
+      },
+      {
+        "material": "adoxal",
+        "from_pct": 30.0,
+        "to_pct": 12.0,
+        "from_g": 30.0,
+        "to_g": 12.0,
+        "reason": "usage_max clamp"
+      }
+    ]
+  },
+  "evaluation": {
+    "score": 47.4,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Amber Drift",
+    "story": "A luminous escape where amber skies meet deep blue waters. Amber Drift captures the essence of personal serenity, with a crisp citrus whisper cascading into the clean, airy glow of adoxal's radiance."
+  },
+  "brief": "a fragrance that conssit of alot of cocunut and sweet and a little of amber and i like it a little bit cirtusy, for my personal use , blue fragrance",
+  "colors": [
+    "blue"
+  ]
+}

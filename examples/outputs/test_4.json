@@ -1,0 +1,323 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "sea water",
+        "family": "base",
+        "score": 0.6144848,
+        "source": "mcmc-fragrances maui"
+      },
+      {
+        "note": "salted musks",
+        "family": "",
+        "score": 0.5992846,
+        "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+      },
+      {
+        "note": "sea salt",
+        "family": "top",
+        "score": 0.5735046,
+        "source": "diptyque florabellio-eau-de-toilette"
+      },
+      {
+        "note": "sea notes",
+        "family": "mid",
+        "score": 0.57344407,
+        "source": "zarkoperfume e-l"
+      },
+      {
+        "note": "water lily",
+        "family": "",
+        "score": 0.56754816,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "white musk",
+        "family": "top",
+        "score": 0.5578704,
+        "source": "sergio-tacchini active-water"
+      },
+      {
+        "note": "sea water",
+        "family": "mid",
+        "score": 0.5543138,
+        "source": "brut-parfums-prestige brut-revolution"
+      },
+      {
+        "note": "cyclamen",
+        "family": "",
+        "score": 0.5530659,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "sea notes",
+        "family": "top",
+        "score": 0.54940057,
+        "source": "faberlic oceanica"
+      },
+      {
+        "note": "rose water",
+        "family": "",
+        "score": 0.5478598,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "white musk",
+        "family": "base",
+        "score": 0.5472044,
+        "source": "sospiro-perfumes erba-oud"
+      },
+      {
+        "note": "sea salt",
+        "family": "mid",
+        "score": 0.54327166,
+        "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+      },
+      {
+        "note": "salt",
+        "family": "mid",
+        "score": 0.5399684,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "lily-of-the-valley",
+        "family": "base",
+        "score": 0.53726816,
+        "source": "attar-collection floral-musk"
+      },
+      {
+        "note": "amberseed",
+        "family": "",
+        "score": 0.5358814,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "geranium leaves",
+        "family": "",
+        "score": 0.5316355,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "coconut water",
+        "family": "mid",
+        "score": 0.52855575,
+        "source": "calvin-klein eternity-aromatic-essence"
+      },
+      {
+        "note": "litsea cubeba",
+        "family": "top",
+        "score": 0.5284057,
+        "source": "bortnikoff cologne-de-la-terre"
+      },
+      {
+        "note": "osmanthus",
+        "family": "",
+        "score": 0.52495706,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      },
+      {
+        "note": "baies rose",
+        "family": "",
+        "score": 0.522609,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "water notes",
+        "family": "top",
+        "score": 0.52103364,
+        "source": "clean h2eau-golden-citrus"
+      },
+      {
+        "note": "sea water",
+        "family": "top",
+        "score": 0.5195952,
+        "source": "oriflame glacier-athletic"
+      },
+      {
+        "note": "pink peppercorn",
+        "family": "",
+        "score": 0.5191337,
+        "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+      },
+      {
+        "note": "peony",
+        "family": "",
+        "score": 0.518821,
+        "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "sea salt",
+          "family": "top",
+          "score": 0.5735046,
+          "source": "diptyque florabellio-eau-de-toilette"
+        },
+        {
+          "note": "white musk",
+          "family": "top",
+          "score": 0.5578704,
+          "source": "sergio-tacchini active-water"
+        },
+        {
+          "note": "sea notes",
+          "family": "top",
+          "score": 0.54940057,
+          "source": "faberlic oceanica"
+        },
+        {
+          "note": "litsea cubeba",
+          "family": "top",
+          "score": 0.5284057,
+          "source": "bortnikoff cologne-de-la-terre"
+        },
+        {
+          "note": "water notes",
+          "family": "top",
+          "score": 0.52103364,
+          "source": "clean h2eau-golden-citrus"
+        },
+        {
+          "note": "sea water",
+          "family": "top",
+          "score": 0.5195952,
+          "source": "oriflame glacier-athletic"
+        }
+      ],
+      "mid": [
+        {
+          "note": "salted musks",
+          "family": "",
+          "score": 0.5992846,
+          "source": "Boy Smells Woodphoria — Woodphoria is a state of mind where the surf sun meets the forest canopy, a "
+        },
+        {
+          "note": "sea notes",
+          "family": "mid",
+          "score": 0.57344407,
+          "source": "zarkoperfume e-l"
+        },
+        {
+          "note": "water lily",
+          "family": "",
+          "score": 0.56754816,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "sea water",
+          "family": "mid",
+          "score": 0.5543138,
+          "source": "brut-parfums-prestige brut-revolution"
+        },
+        {
+          "note": "cyclamen",
+          "family": "",
+          "score": 0.5530659,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "rose water",
+          "family": "",
+          "score": 0.5478598,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "sea salt",
+          "family": "mid",
+          "score": 0.54327166,
+          "source": "jean-paul-gaultier gaultier-divine-le-parfum"
+        },
+        {
+          "note": "salt",
+          "family": "mid",
+          "score": 0.5399684,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "amberseed",
+          "family": "",
+          "score": 0.5358814,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "geranium leaves",
+          "family": "",
+          "score": 0.5316355,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "coconut water",
+          "family": "mid",
+          "score": 0.52855575,
+          "source": "calvin-klein eternity-aromatic-essence"
+        },
+        {
+          "note": "osmanthus",
+          "family": "",
+          "score": 0.52495706,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        },
+        {
+          "note": "baies rose",
+          "family": "",
+          "score": 0.522609,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "pink peppercorn",
+          "family": "",
+          "score": 0.5191337,
+          "source": "Hermes Terre d'Hermes — The history of an alchemic journey through the elements: earth, air and wate"
+        },
+        {
+          "note": "peony",
+          "family": "",
+          "score": 0.518821,
+          "source": "Issey Miyake L'Eau d'Issey — Already a classic, this floral-woody-marine scent contains notes of fre"
+        }
+      ],
+      "base": [
+        {
+          "note": "sea water",
+          "family": "base",
+          "score": 0.6144848,
+          "source": "mcmc-fragrances maui"
+        },
+        {
+          "note": "white musk",
+          "family": "base",
+          "score": 0.5472044,
+          "source": "sospiro-perfumes erba-oud"
+        },
+        {
+          "note": "lily-of-the-valley",
+          "family": "base",
+          "score": 0.53726816,
+          "source": "attar-collection floral-musk"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [],
+    "mid": [],
+    "base": []
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 46.6,
+    "rationale": "Blended TF-IDF + Azure embedding cosine alignment."
+  },
+  "branding": {
+    "name": "Azure Veil",
+    "story": "A delicate whisper of ocean air, Azure Veil drapes you in the serene elegance of sunlit waves. Its breezy essence invites the soul to wander where the sea meets the endless sky."
+  },
+  "brief": "minimalist summer marine linen #CFE8FF",
+  "colors": [],
+  "mode": "brief"
+}

@@ -1,0 +1,480 @@
+{
+  "candidates": {
+    "candidates": [
+      {
+        "note": "aldehydes",
+        "family": "top",
+        "score": 0.14981260895729065,
+        "source": "xerjoff accento-overdose-pride-edition"
+      },
+      {
+        "note": "aldehydes",
+        "family": "mid",
+        "score": 0.14804381132125854,
+        "source": "al-haramain-perfumes ehsas"
+      },
+      {
+        "note": "cherry",
+        "family": "mid",
+        "score": 0.1445440948009491,
+        "source": "bi-es cherry-bloom"
+      },
+      {
+        "note": "cherry",
+        "family": "top",
+        "score": 0.1426754593849182,
+        "source": "lubin magda"
+      },
+      {
+        "note": "cherry",
+        "family": "base",
+        "score": 0.1383187472820282,
+        "source": "karl-lagerfeld lagerfeld-femme"
+      },
+      {
+        "note": "cherry blossom",
+        "family": "mid",
+        "score": 0.13491591811180115,
+        "source": "bybozo french-kiss"
+      },
+      {
+        "note": "aldehydes",
+        "family": "base",
+        "score": 0.13262175023555756,
+        "source": "frederic-malle outrageous-limited-edition-2017"
+      },
+      {
+        "note": "cedar",
+        "family": "base",
+        "score": 0.1253332942724228,
+        "source": "jean-paul-gaultier le-male-pride-collector"
+      },
+      {
+        "note": "muguet",
+        "family": "",
+        "score": 0.12348338961601257,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "black cherry",
+        "family": "top",
+        "score": 0.12002556025981903,
+        "source": "montale intense-cherry"
+      },
+      {
+        "note": "cedar",
+        "family": "mid",
+        "score": 0.11873817443847656,
+        "source": "bohoboco wild-carrot-oud"
+      },
+      {
+        "note": "sour cherry",
+        "family": "top",
+        "score": 0.11674129217863083,
+        "source": "bourjois glamour-fantasy"
+      },
+      {
+        "note": "amber",
+        "family": "base",
+        "score": 0.10916488617658615,
+        "source": "bruno-banani pride-edition-man"
+      },
+      {
+        "note": "cedar",
+        "family": "top",
+        "score": 0.1085226908326149,
+        "source": "j-scent wood-flake"
+      },
+      {
+        "note": "amber",
+        "family": "mid",
+        "score": 0.10763955861330032,
+        "source": "miguel-matos veneno"
+      },
+      {
+        "note": "bergamot",
+        "family": "top",
+        "score": 0.10741174966096878,
+        "source": "jean-paul-gaultier le-male-pride-collector"
+      },
+      {
+        "note": "bergamot",
+        "family": "mid",
+        "score": 0.10574901103973389,
+        "source": "brocard snow-palace"
+      },
+      {
+        "note": "transparent amber and musk",
+        "family": "",
+        "score": 0.10485179722309113,
+        "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+      },
+      {
+        "note": "musk",
+        "family": "base",
+        "score": 0.10357657074928284,
+        "source": "jean-paul-gaultier classique-pride-2024"
+      },
+      {
+        "note": "atlas cedar",
+        "family": "top",
+        "score": 0.10325203835964203,
+        "source": "house-of-matriarch fitnessence"
+      },
+      {
+        "note": "atlas cedar",
+        "family": "mid",
+        "score": 0.10241638123989105,
+        "source": "ricardo-ramos-perfumes-de-autor laaurora"
+      },
+      {
+        "note": "texas cedar",
+        "family": "mid",
+        "score": 0.10230206698179245,
+        "source": "house-of-matriarch fitnessence"
+      },
+      {
+        "note": "musk",
+        "family": "top",
+        "score": 0.10034330189228058,
+        "source": "al-haramain-perfumes ehsas"
+      },
+      {
+        "note": "texas cedar",
+        "family": "base",
+        "score": 0.09862177073955536,
+        "source": "vivamor-parfums rouge-imperiale"
+      }
+    ],
+    "by_family": {
+      "top": [
+        {
+          "note": "aldehydes",
+          "family": "top",
+          "score": 0.14981260895729065,
+          "source": "xerjoff accento-overdose-pride-edition"
+        },
+        {
+          "note": "cherry",
+          "family": "top",
+          "score": 0.1426754593849182,
+          "source": "lubin magda"
+        },
+        {
+          "note": "black cherry",
+          "family": "top",
+          "score": 0.12002556025981903,
+          "source": "montale intense-cherry"
+        },
+        {
+          "note": "sour cherry",
+          "family": "top",
+          "score": 0.11674129217863083,
+          "source": "bourjois glamour-fantasy"
+        },
+        {
+          "note": "cedar",
+          "family": "top",
+          "score": 0.1085226908326149,
+          "source": "j-scent wood-flake"
+        },
+        {
+          "note": "bergamot",
+          "family": "top",
+          "score": 0.10741174966096878,
+          "source": "jean-paul-gaultier le-male-pride-collector"
+        },
+        {
+          "note": "atlas cedar",
+          "family": "top",
+          "score": 0.10325203835964203,
+          "source": "house-of-matriarch fitnessence"
+        },
+        {
+          "note": "musk",
+          "family": "top",
+          "score": 0.10034330189228058,
+          "source": "al-haramain-perfumes ehsas"
+        }
+      ],
+      "mid": [
+        {
+          "note": "aldehydes",
+          "family": "mid",
+          "score": 0.14804381132125854,
+          "source": "al-haramain-perfumes ehsas"
+        },
+        {
+          "note": "cherry",
+          "family": "mid",
+          "score": 0.1445440948009491,
+          "source": "bi-es cherry-bloom"
+        },
+        {
+          "note": "cherry blossom",
+          "family": "mid",
+          "score": 0.13491591811180115,
+          "source": "bybozo french-kiss"
+        },
+        {
+          "note": "muguet",
+          "family": "",
+          "score": 0.12348338961601257,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "cedar",
+          "family": "mid",
+          "score": 0.11873817443847656,
+          "source": "bohoboco wild-carrot-oud"
+        },
+        {
+          "note": "amber",
+          "family": "mid",
+          "score": 0.10763955861330032,
+          "source": "miguel-matos veneno"
+        },
+        {
+          "note": "bergamot",
+          "family": "mid",
+          "score": 0.10574901103973389,
+          "source": "brocard snow-palace"
+        },
+        {
+          "note": "transparent amber and musk",
+          "family": "",
+          "score": 0.10485179722309113,
+          "source": "Bulgari Bulgari pour Homme — The man's musk! Sparkling citrus notes merge with tea notes into a musk"
+        },
+        {
+          "note": "atlas cedar",
+          "family": "mid",
+          "score": 0.10241638123989105,
+          "source": "ricardo-ramos-perfumes-de-autor laaurora"
+        },
+        {
+          "note": "texas cedar",
+          "family": "mid",
+          "score": 0.10230206698179245,
+          "source": "house-of-matriarch fitnessence"
+        }
+      ],
+      "base": [
+        {
+          "note": "cherry",
+          "family": "base",
+          "score": 0.1383187472820282,
+          "source": "karl-lagerfeld lagerfeld-femme"
+        },
+        {
+          "note": "aldehydes",
+          "family": "base",
+          "score": 0.13262175023555756,
+          "source": "frederic-malle outrageous-limited-edition-2017"
+        },
+        {
+          "note": "cedar",
+          "family": "base",
+          "score": 0.1253332942724228,
+          "source": "jean-paul-gaultier le-male-pride-collector"
+        },
+        {
+          "note": "amber",
+          "family": "base",
+          "score": 0.10916488617658615,
+          "source": "bruno-banani pride-edition-man"
+        },
+        {
+          "note": "musk",
+          "family": "base",
+          "score": 0.10357657074928284,
+          "source": "jean-paul-gaultier classique-pride-2024"
+        },
+        {
+          "note": "texas cedar",
+          "family": "base",
+          "score": 0.09862177073955536,
+          "source": "vivamor-parfums rouge-imperiale"
+        }
+      ]
+    }
+  },
+  "formula": {
+    "top": [
+      {
+        "name": "almond, bitter essential oil",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "edible",
+            "dessert-like",
+            "chocolate",
+            "caramel",
+            "almond",
+            "cherry",
+            "apple",
+            "italian cookies",
+            "cherry candy"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "mandarin essential oil, red",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "zesty",
+            "sparkling",
+            "bright",
+            "juicy"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "aldehyde c-14",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "descriptors": [
+            "peachy",
+            "sweet",
+            "candy",
+            "dry flower",
+            "fake fruit"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "mid": [
+      {
+        "name": "aldehyde c-16",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "strawberry",
+            "sweet",
+            "fruity",
+            "car freshener",
+            "fake fruit",
+            "new york taxi"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "apple, red - key accord",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "juicy",
+            "lactonic",
+            "jammy",
+            "sweet",
+            "apple",
+            "red",
+            "accord"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "rose fusion @ 50%",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "petal",
+            "powdery",
+            "headspace",
+            "opulent"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "muguesia / muguet butanol",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "descriptors": [
+            "muguet"
+          ],
+          "aliases": []
+        }
+      }
+    ],
+    "base": [
+      {
+        "name": "nectaryl (g)",
+        "grams": 15.0,
+        "percent": 15.0,
+        "info": {
+          "descriptors": [
+            "juicy",
+            "lactonic",
+            "jammy",
+            "sweet",
+            "peachy",
+            "apricot",
+            "fruity"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "cedramber (iff)",
+        "grams": 10.0,
+        "percent": 10.0,
+        "info": {
+          "descriptors": [
+            "cedar",
+            "sandalwood",
+            "dry",
+            "warm",
+            "amber"
+          ],
+          "aliases": []
+        }
+      },
+      {
+        "name": "tonquin musk imit.",
+        "grams": 5.0,
+        "percent": 5.0,
+        "info": {
+          "descriptors": [
+            "soft",
+            "clean",
+            "round",
+            "fixative",
+            "sweet",
+            "musk with a castoreum aspect"
+          ],
+          "aliases": []
+        }
+      }
+    ]
+  },
+  "compliance": {
+    "ok": true,
+    "warnings": [],
+    "fixes": []
+  },
+  "evaluation": {
+    "score": 40.0,
+    "rationale": "Alignment via TF-IDF cosine on local corpus."
+  },
+  "branding": {
+    "name": "Equinox Drift",
+    "story": "Equinox Drift captures a modern, clean aura, translating your brief into an elegant balance of top, heart, and base."
+  },
+  "brief": "feminine cherry fragrance for women clothing store",
+  "colors": [],
+  "mode": "brief"
+}
