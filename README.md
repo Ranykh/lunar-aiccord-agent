@@ -59,7 +59,7 @@ Utilities under data_ingest/ generate large synthetic datasets (Parquet/JSON), a
 ### **Observability & Safety Nets**
 Step-wise telemetry, debug messages, and clearly defined fallbacks keep the pipeline stable under API/network variance while maintaining deterministic behavior when needed.
 
-
+---
 
 ## How the agent runs - Autonomous Flow
 1) **Your single input** → you type a natural-language brief + optional colors (e.g., “vegas vibes… (yellow)”).
@@ -82,7 +82,7 @@ Step-wise telemetry, debug messages, and clearly defined fallbacks keep the pipe
 
 The whole thing runs end-to-end after your single brief; you don’t micromanage any step.
 
-
+---
 
 ## Repo Layout (high-level)
 ```bash
@@ -121,7 +121,7 @@ config.py
 requirements.txt
 
 ```
-
+---
 ## Quickstart
 
 ### 1) Clone & create a virtual env
@@ -140,12 +140,12 @@ source .venv/bin/activate
 # .\.venv\Scripts\Activate.ps1
 
 ```
-
+---
 ### 2) Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 ### 3) Index / DB prep
 ### Option A — Qdrant (online RAG):
 ```bash
@@ -167,7 +167,7 @@ Ensure you have:
 - indices/notes.pkl
 
 
-
+---
 ## Running the Agent
 Interactive (recommended to see the autonomous flow)
 Here’s the exact command that will show the intro in the terminal (interactive mode) and save the result to your examples folder:
@@ -340,7 +340,7 @@ The saved JSON includes:
   ],
   "mode": "brief"
 ```
-
+---
 ## Optional! - Transform/Flanker Mode
 Start from an existing formula JSON:
 ```bash
@@ -350,7 +350,7 @@ python run.py \
   --colors "yellow, white" \
   --online
 ```
-
+---
 ## How RAG + LLM work together
 
 - **Note-RAG** retrieves conceptual notes aligned to the brief.
@@ -370,7 +370,7 @@ python run.py \
     OUTPUT FORMAT: strict JSON with keys: top, mid, base, total_grams; each item has material_id, name, grams, percent.
 ```
 
-
+---
 
 ### Example run (inputs → outputs)
 ```bash
@@ -397,6 +397,7 @@ Saved result to examples/outputs/20251003_003740_vegas-vibes-in-the-summer-insid
 
 In  “vegas vibes in the summer inside a gym near the beach (yellow)” run, the system acted autonomously end-to-end after single, natural-language input. First, brief and color were parsed into an intent (season/context/tone + color terms). That intent fed a sensory/moodboard step that distilled emotion terms and seed notes. Using those, the note-RAG retrieved relevant note ideas; then the material-RAG mapped those notes to real, safe materials from the Qdrant-backed catalog. With that candidate pool, the LLM proportioner (constrained by role targets and usage caps, and informed by reference formulas) allocated exact grams to reach a 100 g formula—no invented names, just selections from the retrieved materials. Next, a compliance agent verified IFRA-style constraints and the evaluator scored fit to the brief. Finally, a branding agent named the scent and wrote the story. You didn’t have to orchestrate any of this: once you gave the brief, the agents coordinated the retrieval, reasoning, proportioning, validation, and storytelling on their own, streaming progress and saving the finished JSON output - ready for creating the fragrance.
 
+---
 ## Configuration
 
 **Adjust these in config.py:**
@@ -410,10 +411,10 @@ In  “vegas vibes in the summer inside a gym near the beach (yellow)” run, th
 - QDRANT_COLLECTION_MATERIALS
 
 - Dataset constants (DATASET_OUT_DIR, DATASET_SHARD_SIZE, …)
-
+---
 ## License
 This project is provided for research & prototyping purposes. Please review supplier SDS/IFRA restrictions before producing anything for real-world use.
-
+---
 ## Acknowledgements
 Thanks to the open-source fragrance-making community and dataset contributors. Real formulas used as references are credited in your data/base_formulas.jsonl, /data/reference_formulas/, /datamaterials_catalog.jsonl sources.
 ATTRIBUTION - SHARE-ALIKE, provided by CREATIVE COMMONS
