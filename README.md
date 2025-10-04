@@ -3,6 +3,10 @@ Lunar AIccord is a production-ready, Fully autonomous, retrieval-augmented agent
 Given a short user brief (plus optional brand colors), the system orchestrates multiple tools—LLM chat/embeddings, vector databases (Qdrant), and local indices—to retrieve domain knowledge, synthesize candidates, and produce a validated fragrance formula with evaluation and branding copy. The project emphasizes prompt engineering, clean modular code, and effective API/database usage to demonstrate practical generative-AI patterns (RAG, tool orchestration, schema-constrained generation, and fault-tolerant fallbacks).
 
 
+
+![Pipeline overview](docs/chart.png)
+
+
 ## Features 
 
 ### **Autonomous Orchestration (LangGraph/LangChain)**
